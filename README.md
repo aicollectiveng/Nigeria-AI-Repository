@@ -1,3 +1,5 @@
+![Alt text](NAIR.png)<br>
+
 # AI Collective Repository
 A catalogue of the full spectrum of AI advancement in the country — from documented innovation use cases and data collection initiatives to emerging tools and technologies supporting AI implementation. It also features notable events, news, and key milestones that highlight Nigeria's growing footprint in the global AI ecosystem.
 
@@ -78,7 +80,6 @@ Students and enthusiasts eager to learn, experiment, or join a collaborative AI 
 By engaging with the AI Collective, you join a global effort to make artificial intelligence more open, ethical, and impactful for everyone.
 
 
-![Alt text](https://github.com/aicollectiveng/Embeddings/blob/main/Nigerian%20AI%20Repository.png)<br>
 ---
 
 ## Nigerian AI Collective Learning Series
