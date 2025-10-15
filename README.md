@@ -50,7 +50,7 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 ## Nigeria AI Collective Overview Page
 
 * **[Mission Statement]()** – 
-The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone—regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
+The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
 * **[Scope]()** – 
 The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
@@ -131,7 +131,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [LangEasy](https://www.awarri.com/langeasy) - A data collection platform by Awarri that enables users to record and translate sentences into Nigerian languages (Yoruba, Hausa, Igbo, Pidgin, Ibibio), powering AI language models with community-contributed data.
   - [Nkenne](https://www.nkenne.com/) - A learning app offering lessons and translation features for Nigerian languages such as Igbo, Yoruba, Hausa, Nigerian Pidgin, and more, with mobile-first experiences for language learning and localization.
   - [Wazobia Translator](https://wazobia-translator.soft112.com/#:~:text=Wazobia%20Translator%20is%20a%20simple,%2C%20Igbo%20to%20Hausa%2C%20etc.) - An open-source chatbot and translator available on GitHub, Wazobia can translate between English and Nigeria’s three top languages: Hausa, Igbo, and Yoruba. Designed as a tool for developers and language learners.
-  - [Nigeria Learning Paasport](https://nlp.education.gov.ng/) - A government and UNICEF initiative, it is an e-learning and language platform supporting core Nigerian languages. It provides online and offline language lessons and digital education resources, aiming for inclusivity and accessibility for all children.
+  - [Nigeria Learning Passport](https://nlp.education.gov.ng/) - A government and UNICEF initiative, it is an e-learning and language platform supporting core Nigerian languages. It provides online and offline language lessons and digital education resources, aiming for inclusivity and accessibility for all children.
   
   
 * ### **[Academic-Industry Collaborations]()** –
