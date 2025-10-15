@@ -254,7 +254,8 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 
 * **[Pictures from Events](https://ncair.nitda.gov.ng/gallery)** – Photo archives of hackathons, conferences, and workshops.
 
-* **[NAIS Document](https://ncair.nitda.gov.ng/wp-content/uploads/2024/08/National-AI-Strategy_01082024-copy.pdf)**
+* **[NAIS Document](https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf
+ )**
 
 * **[Video Compilation of Minister’s Achievements](https://youtu.be/aNnOeT2Rg30)**
 
