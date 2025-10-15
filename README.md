@@ -5,19 +5,19 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 ## Table of Contents
 
-- [Nigerian AI Collective Overview Page](#nigerian-ai-collective-overview-page)
+- [Nigeria AI Collective Overview Page](#nigeria-ai-collective-overview-page)
     - [Mission Statement](#mission-statement)
     - [Scope](#scope)
     - [Access Guide](#access-guide)
-- [Nigerian AI Collective Learning Series](#nigerian-ai-collective-learning-series)
+- [Nigeria AI Collective Learning Series](#nigeria-ai-collective-learning-series)
     - [AI Executive Leadership Learning Series](#ai-executive-leadership-learning-series)
     - [Sector-Specific Webinars](#sector-specific-webinars)
     - [Media](#media)
-- [Nigerian AI Portfolio](#nigerian-ai-portfolio)
+- [Nigeria AI Portfolio](#nigeria-ai-portfolio)
     - [Public & NGO-Led Initiatives](#public--ngo-led-initiatives)
     - [Tools & Platforms](#tools--platforms)
     - [Academic-Industry Collaborations](#academic-industry-collaborations)
-    - [Published Papers by Nigerian Researchers](#published-papers-by-nigerian-researchers)
+    - [Published Papers by Nigeria Researchers](#published-papers-by-nigerian-researchers)
     - [Directory of AI Startups](#directory-of-ai-startups)
 - [National AI Strategy (NAIS)](#national-ai-strategy-nais)
     - [NAIS Document](#nais-document)
@@ -47,13 +47,13 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 ---
 
-## Nigerian AI Collective Overview Page
+## Nigeria AI Collective Overview Page
 
 * **[Mission Statement]()** – 
 The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone—regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
 * **[Scope]()** – 
-The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone—regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
+The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
 * **[Access Guide]()** 
 
@@ -82,7 +82,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 
 ---
 
-## Nigerian AI Collective Learning Series
+## Nigeria AI Collective Learning Series
 
 
 * **[AI Collective Learning Series]()** – Welcome to our exclusive and immersive 13-week learning series, meticulously designed to demystify the world of artificial intelligence and equip you with the knowledge and strategies to drive innovation, efficiency, and growth.
@@ -106,7 +106,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 
 ---
 
-## Nigerian AI Portfolio
+## Nigeria AI Portfolio
 
 * ### **[Public & NGO-Led Initiatives]()** – 
   - [Nigeria AI Scaling Hub](https://fmcide.gov.ng/nigeria-launches-ai-scaling-hub-in-collaboration-with-gates-foundation-to-accelerate-impact-in-health-education-and-agriculture/) - A multi-stakeholder initiative by the Federal Ministry of Communications, Innovation & Digital Economy and the Gates Foundation. It accelerates scaling of impactful AI solutions in health, education, and agriculture, supporting innovators with resources and mentorship.
