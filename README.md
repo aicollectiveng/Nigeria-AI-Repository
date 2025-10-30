@@ -69,7 +69,7 @@ Students and enthusiasts eager to learn, experiment, or join a collaborative AI 
 
 **Explore:** Browse curated lists of AI tools, research, and resources organized by topic and type.
 
-**Contribute:** Fork the repository, add your resources, research, or tools, and submit a pull request. Review the Contribution Guidelines for best practices and requirements.
+**Contribute:** Fork the repository, add your resources, research, or tools, and submit a pull request. Review the [Contribution Guidelines](https://github.com/aicollectiveng/Nigeria-AI-Repository/blob/main/Contributors%20Guide.md) for best practices and requirements.
 
 **Collaborate:** Join discussions, propose new initiatives, or help review and improve existing content. The community thrives on active participation and diverse perspectives.
 
