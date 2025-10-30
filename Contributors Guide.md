@@ -118,4 +118,4 @@ Or, reach out to us via:
 
 * [**Twitter/X:** @aicollectiveng](https://x.com/aicollectiveng)
 * [**LinkedIn:** Nigeria AI Collective](https://www.linkedin.com/company/nigeria-ai-collective/)
-* [**Community Registration Form:**](https://bit.ly/AI-Collective-Com-Onboard)
+* [**Community Registration Form:** Join our WhatsApp Group after filling the form](https://bit.ly/AI-Collective-Com-Onboard)
