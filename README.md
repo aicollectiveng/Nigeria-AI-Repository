@@ -50,26 +50,26 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 ## Nigeria AI Collective Overview Page
 
 * **[Mission Statement]()** – 
-The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
+The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, s, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
 * **[Scope]()** – 
-The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
+The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, s, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
 * **[Access Guide]()** 
 
 **Who is this for?**
 
 Researchers and academics seeking the latest AI developments or wishing to contribute new findings.
-Developers and engineers looking for open-source AI tools, models, and codebases.
+Developers and engineers looking for open-source AI s, models, and codebases.
 Entrepreneurs and startups exploring AI-driven solutions and business models.
 Policymakers, advocates, and ethicists interested in the societal impacts and governance of AI.
 Students and enthusiasts eager to learn, experiment, or join a collaborative AI community.
 
 **How to use this repository:**
 
-**Explore:** Browse curated lists of AI tools, research, and resources organized by topic and type.
+**Explore:** Browse curated lists of AI s, research, and resources organized by topic and type.
 
-**Contribute:** Fork the repository, add your resources, research, or tools, and submit a pull request. Review the [Contribution Guidelines](https://github.com/aicollectiveng/Nigeria-AI-Repository/blob/main/Contributors%20Guide.md) for best practices and requirements.
+**Contribute:** Fork the repository, add your resources, research, or s, and submit a pull request. Review the [Contribution Guidelines](https://github.com/aicollectiveng/Nigeria-AI-Repository/blob/main/Contributors%20Guide.md) for best practices and requirements.
 
 **Collaborate:** Join discussions, propose new initiatives, or help review and improve existing content. The community thrives on active participation and diverse perspectives.
 
@@ -113,7 +113,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [National Centre for Artificial Intelligence and Robotics (NCAIR)](https://ncair.nitda.gov.ng/) -  Nigeria’s flagship research and development center focusing on AI, robotics, and fourth industrial revolution technologies. Supports innovation through research, infrastructure, and skills development.
   - [UNILAG NITHUB](https://nithub.unilag.edu.ng/) - A NITDA-funded initiative serving as a premier technology innovation hub. NitHub provides an enabling environment for developers, startups, and students to collaborate, receive mentorship, and build digital skills.
   - [AI In Nigeria (AIN) Platform](https://aiinnigeria.com/about-us/) - A broad-based movement aiming to establish Nigeria as a global AI hub, facilitating innovation and partnerships across government and civil society.
-  - [Service-Wise GPT – Public Service Transformation](https://www.ohcsf.gov.ng/post-nigeria_unveils_ai_driven_public_service_transformation__at_global_government_summit_2025) - A government-led initiative providing AI-powered tools (like Service-Wise GPT) to revolutionize public service delivery and citizen engagement.
+  - [Service-Wise GPT – Public Service Transformation](https://www.ohcsf.gov.ng/post-nigeria_unveils_ai_driven_public_service_transformation__at_global_government_summit_2025) - A government-led initiative providing AI-powered s (like Service-Wise GPT) to revolutionize public service delivery and citizen engagement.
   - [Collaborative Centre for AI, Nigeria (CCAI)](https://www.cosmopolitan.edu.ng/collaborative-centre-for-ai) - A multidisciplinary hub for collaborative research and development across academic and public sectors, advancing AI technologies and governance.
   - [Nigeria AI Accelerator Programme (with Meta)](https://techpoint.africa/news/nigeria-meta-ai-accelerator/) -  A government partnership with Meta (Facebook) to support startups building AI-driven solutions that tackle Nigeria’s social and economic challenges. Provides mentorship, technical resources, and sectoral support, managed by the National Information Technology Development Agency (NITDA).
   - [Artificial Intelligence Industry Collective (AI Collective)](https://ncair.nitda.gov.ng/aicollective/) - A coalition of civil society, academic, private, and governmental players advancing responsible and inclusive AI development and adoption, emphasizing ethical and social impact.
@@ -132,6 +132,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [Nkenne](https://www.nkenne.com/) - A learning app offering lessons and translation features for Nigerian languages such as Igbo, Yoruba, Hausa, Nigerian Pidgin, and more, with mobile-first experiences for language learning and localization.
   - [Wazobia Translator](https://wazobia-translator.soft112.com/#:~:text=Wazobia%20Translator%20is%20a%20simple,%2C%20Igbo%20to%20Hausa%2C%20etc.) - An open-source chatbot and translator available on GitHub, Wazobia can translate between English and Nigeria’s three top languages: Hausa, Igbo, and Yoruba. Designed as a tool for developers and language learners.
   - [Nigeria Learning Passport](https://nlp.education.gov.ng/) - A government and UNICEF initiative, it is an e-learning and language platform supporting core Nigerian languages. It provides online and offline language lessons and digital education resources, aiming for inclusivity and accessibility for all children.
+  - [AfricanVoices](https://africanvoices.io/) - African Voices is a platform that democratizes access to African speech data, enabling researchers and developers to build inclusive AI and voice technologies for African languages.
   
   
 * ### **[Academic-Industry Collaborations]()** –
