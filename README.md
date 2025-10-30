@@ -49,7 +49,7 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 ## Nigeria AI Collective Overview Page
 
-* **[Mission Statement]()** – 
+* **[Mission Statement](#Mission-Statement)** – 
 The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
 * **[Scope]()** – 
