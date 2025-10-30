@@ -1,4 +1,4 @@
-# Nigeria AI Collective Repository — Contributor Guide
+# Nigeria AI Collective Repository — Contributors Guide
 
 Welcome to the **Nigeria AI Collective Repository**, our community initiative to document, promote, and connect the entire AI development landscape in Nigeria.
 
@@ -116,6 +116,6 @@ If you're unsure how to format your entry or where to add it:
 
 Or, reach out to us via:
 
-* **LinkedIn:** \[Link to Nigeria AI Collective LinkedIn\]
-* **Twitter/X:** \[@aicollectiveng\](\[Link to Twitter/X Profile\])
-* **Community Registration Form:** \[Link to Community Registration Form\]
+* [**Twitter/X:** @aicollectiveng](https://x.com/aicollectiveng)
+* [**LinkedIn:** Nigeria AI Collective](https://www.linkedin.com/company/nigeria-ai-collective/)
+* [**Community Registration Form:**](https://bit.ly/AI-Collective-Com-Onboard)
