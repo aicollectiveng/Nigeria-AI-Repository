@@ -49,10 +49,10 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 ## Nigeria AI Collective Overview Page
 
-### **[Mission Statement]()** – 
+* **[Mission Statement]()** – 
 The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
-### **[Scope]()** – 
+* **[Scope]()** – 
 The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
 * **[Access Guide]()** 
@@ -246,7 +246,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 * **[Diaspora Connect Portal]()** – A platform to collaborate with global Nigerian AI experts.  
   - [Link Placeholder](#)
 
-* **[Registration Form](https://forms.gle/eGtSNSMowgMSjD4H7)** – Join the AI Collective.
+* **[Registration Form](https://bit.ly/AI-Collective-Com-Onboard)** – Join the AI Collective.
 
 ---
 
