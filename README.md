@@ -6,7 +6,7 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 ## Table of Contents
 
 - [Nigeria AI Collective Overview Page](#nigeria-ai-collective-overview-page)
-    - [Mission Statement](#mission-statement)
+    - [Mission Statement](#Mission-Statement)
     - [Scope](#scope)
     - [Access Guide](#access-guide)
 - [Nigeria AI Collective Learning Series](#nigeria-ai-collective-learning-series)
