@@ -27,7 +27,7 @@ You can contribute to this repository in the following key areas:
 Follow these five simple steps to submit your entry:
 
 1.  **Fork the Repository**
-    Click the **Fork** button at the top right of this page.
+    Click the **Fork** button at the top right of the Repository page.
 
 2.  **Create a New Branch**
 
@@ -98,7 +98,7 @@ Before submitting, please ensure your entry adheres to these principles:
 
 ## 6. Code of Conduct
 
-This repository adheres to the **Contributor Covenant Code of Conduct**.
+This repository adheres to the [**Contributor Covenant Code of Conduct**](https://www.contributor-covenant.org/).
 
 All community members are expected to:
 
