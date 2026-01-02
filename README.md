@@ -303,6 +303,9 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [Common Voice Dataset](https://commonvoice.mozilla.org/en/datasets) – Various African Languages
   - [AfriSenti-SemEval Dataset](https://github.com/afrisenti-semeval/afrisent-semeval-2023) – 14 African Languages
   - [African Proverbs API](https://github.com/elvis-ndubuisi/african-proverbs) – Multiple African Languages
+  - [CHOWNET-V1 datasets] (https://github.com/AISaturdaysLagos/CHOWNET) - Chownet: Nigerian Food Image Dataset
+  - [ImageAI Open-source Computer Vision Library] (https://github.com/OlafenwaMoses/ImageAI) - ImageAI: AI Computer Vision Library for Python
+
 
 * **[Codebases](https://github.com/NITDA-AICollective)** – AI repos by Nigerian developers and institutions.
 
