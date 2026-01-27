@@ -1,4 +1,4 @@
-![Alt text](NAIR.jpg)<br>
+![Alt text](https://github.com/aicollectiveng/Embeddings/blob/main/NAIR.jpg)<br>
 
 # AI Collective Repository
 A catalogue of the full spectrum of AI advancement in the country — from documented innovation use cases and data collection initiatives to emerging tools and technologies supporting AI implementation. It also features notable events, news, and key milestones that highlight Nigeria's growing footprint in the global AI ecosystem. **Topic tags:** #AI, #Nigeria, #National Strategy, #PolicyGovernance, #Infrastructure, #Datasets, #Benchmarks, #Startups, #Health, #Education, #Agriculture, #Finance, #Media, #Community, #Events, #Open Source
