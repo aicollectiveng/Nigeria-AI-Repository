@@ -112,16 +112,15 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [The National Centre for Artifical Intelligence and Robotics (NCAIR)](https://ncair.nitda.gov.ng/)
   - [Nigeria Data Protection Commission (NDPC)](https://ndpc.gov.ng/)
   - [Nigerian Communications Commission (NCC)](https://www.ncc.gov.ng/)
-  - [Federal Competition and Consumer Protection Commission (FCCPC)](https://fccpc.gov.ng/)
   - [Federal Ministry of Communications, Innovation & Digital Economy](https://www.fmcide.gov.ng/)
  
-* ### [Activites of the Federal Minister of Communications, Innovation and Digital Economy, Dr. Bosun Tijani](https://youtu.be/aNnOeT2Rg30)
 
 * ### **AI Policy and Governance** 
   - [Nigeria National AI Strategy Publication](https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf)
   - [AI-driven anti-money-laundering and credit-risk systems in Nigerian banks](https://www.cbn.gov.ng/Out/2025/CCD/Exposure%20Draft%20on%20Baseline%20Standards%20for%20Automated%20AML%20Solutions.pdf)
   - [Service-Wise GPT for public-service process automation](https://ohcsf.gov.ng/2025/03/18/nigeria-unveils-ai-driven-public-service-transformation-at-global-government-summit-2025/)
   - [UNESCO RAM context-specific policy recommendations that can guide sustainable AI adoption in the country.](https://www.linkedin.com/posts/dsnai_datasciencenigeria-aireadiness-responsibleai-activity-7330556314839928832-9kGD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiM5boBU9nVr4TqW0ygTK5T5Qa8GhSm8Oo)
+  - [Activites of the Federal Minister of Communications, Innovation and Digital Economy, Dr. Bosun Tijani](https://youtu.be/aNnOeT2Rg30)
 
 * ### **Public & NGO-Led Initiatives** 
   - [Nigeria AI Scaling Hub](https://fmcide.gov.ng/nigeria-launches-ai-scaling-hub-in-collaboration-with-gates-foundation-to-accelerate-impact-in-health-education-and-agriculture/) - A multi-stakeholder initiative by the Federal Ministry of Communications, Innovation & Digital Economy and the Gates Foundation. It accelerates scaling of impactful AI solutions in health, education, and agriculture, supporting innovators with resources and mentorship.
