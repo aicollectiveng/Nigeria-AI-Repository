@@ -8,55 +8,50 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 ## Table of Contents
 
 - [Nigeria AI Collective Overview Page](#nigeria-ai-collective-overview-page)
-    - [Mission Statement](#Mission-Statement)
-    - [Scope](#scope)
-    - [Access Guide](#access-guide)
+  - [Mission Statement](#mission-statement)
+  - [Scope](#scope)
+  - [Access Guide](#access-guide)
+    - [Who is this for?](#who-is-this-for)
+    - [How to use this repository](#how-to-use-this-repository)
 - [Nigeria AI Collective Learning Series](#nigeria-ai-collective-learning-series)
-    - [AI Executive Leadership Learning Series](#ai-executive-leadership-learning-series)
-    - [Sector-Specific Webinars](#sector-specific-webinars)
-    - [Media](#media)
-- [Nigeria AI Portfolio](#nigeria-ai-portfolio)
-    - [Public & NGO-Led Initiatives](#public--ngo-led-initiatives)
-    - [AI Policy and Governance](#ai-policy-and-governance)
-    - [Tools & Platforms](#tools--platforms)
-    - [AI Infrastructure](#ai-infrastructure)
-    - [Published Papers by Nigeria Researchers](#published-papers-by-nigerian-researchers)
-    - [Directory of AI Startups](#directory-of-ai-startups)
-- [National AI Strategy (NAIS)](#national-ai-strategy-nais)
-    - [NAIS Document](#nais-document)
-    - [NAIS Unveiling and Launch Media](#nais-unveiling-and-launch-media)
-    - [Government Involvement](#government-involvement)
+  - [AI Collective Learning Series](#ai-collective-learning-series)
+  - [Media](#media)
+- [Nigeria AI Portfolio and Government Involvement](#nigeria-ai-portfolio-and-government-involvement)
+  - [Governmental bodies Involvement](#governmental-bodies-involvement)
+  - [Activities of the Federal Minister of Communications, Innovation and Digital Economy, Dr. Bosun Tijani](#activites-of-the-federal-minister-of-communications-innovation-and-digital-economy-dr-bosun-tijani)
+  - [AI Policy and Governance](#ai-policy-and-governance)
+  - [Public & NGO-Led Initiatives](#public--ngo-led-initiatives)
+  - [Global Collaboration Partnerships](#global-collaboration-partnerships)
+  - [Tools & Platforms](#tools--platforms)
+  - [AI Infrastructure](#ai-infrastructure)
+  - [Published Papers by Nigerian Researchers](#published-papers-by-nigerian-researchers)
+  - [Directory of AI Startups](#directory-of-ai-startups)
 - [Sectorial Applications](#sectorial-applications)
-    - [Sectoral Champions](#sectoral-champions)
-    - [Hackathon](#hackathon)
-- [Ecosystem Activites and Events](#ecosystem-activities-and-events)
-    - [Events](#onsite-events)
-- [Community of Practice Platforms](#community-of-practice-platforms)
-    - [Social Media Handles](#social-media-handles)
-    - [Global Collaboration Partnerships](#diaspora-connect-portal)
-    - [Registration Form](#registration-form)
-- [Media](#media-1)
-    - [Pictures from Events](#pictures-from-events)
-    - [NAIS Document](#nais-document-1)
-    - [Video Compilation of Minister’s Achievements](#video-compilation-of-ministers-achievements)
-    - [PR & News](#pr--news)
+  - [Sectoral AI Adoptions](#sectoral-ai-adoptions)
+  - [Hackathons](#hackathons)
+- [Ecosystem Activities and Events](#ecosystem-activities-and-events)
+  - [Events](#events)
 - [Data & Open-Source Assets](#data--open-source-assets)
-    - [Datasets](#datasets)
-    - [Benchmarks](#Benchmarks)
-    - [API Libraries & Frameworks](#api-libraries--frameworks)
+  - [Datasets](#datasets)
+  - [Benchmarks](#benchmarks)
+  - [API Libraries & Frameworks](#api-libraries--frameworks)
 - [Innovation](#innovation)
+  - [Innovation Highlights](#innovation-highlights)
 - [Awards](#awards)
+  - [Major National Achievement and Recognitions](#major-national-achievement-and-recognitions)
 - [Accepted AI Papers in Conferences](#accepted-ai-papers-in-conferences)
+  - [Conference Papers](#conference-papers)
+  - [NeurIPS](#neurips)
 
 
 ---
 
 ## Nigeria AI Collective Overview Page
 
-* **[Mission Statement]()** – 
+* **[Mission Statement]()** - 
 The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
-* **[Scope]()** – 
+* **[Scope]()** - 
 The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
 * **[Access Guide]()** 
@@ -105,15 +100,31 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - Episode 13: [AI for Social Good and Shared Prosperity](https://www.youtube.com/watch?v=EnRh69bgG9I&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=5)
   
 
-* **Media** – Join Our Youtube Community by Subscribing to our Channel.
-  - [YouTube: Nigeria AI Collective Learning Series](https://www.youtube.com/@aicollectiveng/playlists)
+* **Media** – Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https://www.youtube.com/@aicollectiveng/playlists)
 
 ---
 
-## Nigeria AI Portfolio
+## Nigeria AI Portfolio and Government Involvement
 
-* ### **Public & NGO-Led Initiatives** – 
+* **Governmental bodies Involvement** – Key agencies 
+  - [National Information Techonology Development Agency (NITDA)](https://nitda.gov.ng) 
+  - [The National Centre for Artifical Intelligence and Robotics (NCAIR)](https://ncair.nitda.gov.ng/)
+  - [Nigeria Data Protection Commission (NDPC)](https://ndpc.gov.ng/)
+  - [Nigerian Communications Commission (NCC)](https://www.ncc.gov.ng/)
+  - [Federal Competition and Consumer Protection Commission (FCCPC)](https://fccpc.gov.ng/)
+  - [Federal Ministry of Communications, Innovation & Digital Economy](https://www.fmcide.gov.ng/)
+ 
+* **[Activites of the Federal Minister of Communications, Innovation and Digital Economy, Dr. Bosun Tijani](https://youtu.be/aNnOeT2Rg30)**
+
+* ### **AI Policy and Governance** 
+  - [Nigeria National AI Strategy Publication](https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf)
+  - [AI-driven anti-money-laundering and credit-risk systems in Nigerian banks](https://www.cbn.gov.ng/Out/2025/CCD/Exposure%20Draft%20on%20Baseline%20Standards%20for%20Automated%20AML%20Solutions.pdf)
+  - [Service-Wise GPT for public-service process automation](https://ohcsf.gov.ng/2025/03/18/nigeria-unveils-ai-driven-public-service-transformation-at-global-government-summit-2025/)
+  - [UNESCO RAM context-specific policy recommendations that can guide sustainable AI adoption in the country.](https://www.linkedin.com/posts/dsnai_datasciencenigeria-aireadiness-responsibleai-activity-7330556314839928832-9kGD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiM5boBU9nVr4TqW0ygTK5T5Qa8GhSm8Oo)
+
+* ### **Public & NGO-Led Initiatives** 
   - [Nigeria AI Scaling Hub](https://fmcide.gov.ng/nigeria-launches-ai-scaling-hub-in-collaboration-with-gates-foundation-to-accelerate-impact-in-health-education-and-agriculture/) - A multi-stakeholder initiative by the Federal Ministry of Communications, Innovation & Digital Economy and the Gates Foundation. It accelerates scaling of impactful AI solutions in health, education, and agriculture, supporting innovators with resources and mentorship.
+  - [National AI Strategy Unveiling and Launch](https://nairametrics.com/2025/04/16/nigeria-launches-national-ai-strategy-to-drive-ai-development-and-productivity/) - Nigeria officially launched its National Artificial Intelligence Strategy (NAIS) in April 2025, positioning AI as a driver of economic growth, innovation, and productivity across key sectors. The unveiling took place in Lagos, led by Dr. Bosun Tijani, Minister of Communications, Innovation, and Digital Economy.
   - [National Centre for Artificial Intelligence and Robotics (NCAIR)](https://ncair.nitda.gov.ng/) -  Nigeria’s flagship research and development center focusing on AI, robotics, and fourth industrial revolution technologies. Supports innovation through research, infrastructure, and skills development.
   - [UNILAG NITHUB](https://nithub.unilag.edu.ng/) - A NITDA-funded initiative serving as a premier technology innovation hub. NitHub provides an enabling environment for developers, startups, and students to collaborate, receive mentorship, and build digital skills.
   - [AI In Nigeria (AIN) Platform](https://aiinnigeria.com/about-us/) - A broad-based movement aiming to establish Nigeria as a global AI hub, facilitating innovation and partnerships across government and civil society.
@@ -123,14 +134,18 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [Artificial Intelligence Industry Collective (AI Collective)](https://ncair.nitda.gov.ng/aicollective/) - A coalition of civil society, academic, private, and governmental players advancing responsible and inclusive AI development and adoption, emphasizing ethical and social impact.
   - [Nigeria National AI Trust](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - The world's first government-backed trust dedicated to AI, designed to mobilize resources, guide development, and ensure ethical oversight of AI’s national impact.
   - [Digital Inclusion and Universal Communication Access Project](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - Federal initiative expanding broadband and digital infrastructure to unserved and underserved areas, laying essential groundwork for equitable AI access and innovation.
-
-* ### **AI Policy and Governance** –
-  - [Nigeria National AI Strategy Publication](https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf)
-  - [AI-driven anti-money-laundering and credit-risk systems in Nigerian banks](https://www.cbn.gov.ng/Out/2025/CCD/Exposure%20Draft%20on%20Baseline%20Standards%20for%20Automated%20AML%20Solutions.pdf)
-  - [Service-Wise GPT for public-service process automation](https://ohcsf.gov.ng/2025/03/18/nigeria-unveils-ai-driven-public-service-transformation-at-global-government-summit-2025/)
-  - [UNESCO RAM context-specific policy recommendations that can guide sustainable AI adoption in the country.](https://www.linkedin.com/posts/dsnai_datasciencenigeria-aireadiness-responsibleai-activity-7330556314839928832-9kGD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiM5boBU9nVr4TqW0ygTK5T5Qa8GhSm8Oo)
+ 
+*###  **Global Collaboration Partnerships** 
+  - [Cassava AI Exchange connects African telcos to OpenAI, Google, and Anthropic](https://www.cassava.ai/2025/11/12/africa-first-ai-multi-model-exchange/)
+  - [Nigeria AI Scaling Hub (FMCIDE × Gates Foundation)](https://fmcide.gov.ng/nigeria-launches-ai-scaling-hub-in-collaboration-with-gates-foundation-to-accelerate-impact-in-health-education-and-agriculture/)
+  - [EU–Nigeria Science, Technology, and Innovation Agreement](https://guardian.ng/news/eu-nigeria-deepen-ai-cooperation-through-research-partnerships/)
+  - [Microsoft $1M AI Skilling Initiative for One Million Nigerians](https://punchng.com/microsoft-plans-ai-training-for-one-million-nigerians/)
+  - [Meta × Nigeria National AI Accelerator Program](https://newskobo.com/2025/06/11/nigeria-partners-with-meta-to-launch-national-ai-accelerator/)
+  - [Africa’s First Neutral Multi-Tenant AI Factory (BCN × Zadara × Touchnet)](https://bcnnigeria.net/index.php/africa-s-first-neutral-ai-factory-debuts-in-nigeria-through-bcn-zadara-collaboration/)
+  - [Strategic Stakeholder Learning Immersion in Singapore](https://www.linkedin.com/posts/dsnai_iclr2025-datasciencenigeria-aifornigeria-activity-7326588955150196736-wDwM/)
+  - [Meta partners with RAIN to empower Nigerian AI developers](https://www.linkedin.com/posts/robotics-artificial-intelligence-nigeria-rain_agenticaicertification-metaaideveloperacademy-activity-7392679127029534720-Wyrn)
     
-* ### **Tools & Platforms** – 
+* ### **Tools & Platforms** 
   - [AfroSLM](https://afroslm.equalyz.ai/) - Developed by EqualyzAI, AfroSLM is a small language model designed for African languages, with a financial focus for Yoruba and also supporting general reasoning in Nigerian indigenous languages. It enables AI-powered translation and language understanding, helping to digitize and preserve local languages.
   - [N-ATLaS-LLM (African Multilingual LLM)](https://huggingface.co/NCAIR1/N-ATLaS) - A fine-tuned multilingual language model based on Llama-3 8B, supporting African languages including Hausa, Igbo, Yoruba, and English.
   - [AfriQueLLM – Open African Large Language Models](https://huggingface.co/collections/McGill-NLP/afriquellm) - A suite of open large language models adapted to 20 African languages through continued pre-training on 26B tokens.
@@ -146,13 +161,13 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [Wazobia Translator](https://wazobia-translator.soft112.com/#:~:text=Wazobia%20Translator%20is%20a%20simple,%2C%20Igbo%20to%20Hausa%2C%20etc.) - An open-source chatbot and translator available on GitHub, Wazobia can translate between English and Nigeria’s three top languages: Hausa, Igbo, and Yoruba. Designed as a tool for developers and language learners.
   - [Nigeria Learning Passport](https://nlp.education.gov.ng/) - A government and UNICEF initiative, it is an e-learning and language platform supporting core Nigerian languages. It provides online and offline language lessons and digital education resources, aiming for inclusivity and accessibility for all children.
   
-* ### **AI Infrastructure** –
+* ### **AI Infrastructure** 
 - [EqualyzAI GPU4Good provides on-demand access to high-performance compute for projects that advance inclusive, ethical, and socially beneficial AI. From building models in low-resourced languages to developing fairer, culturally aware evaluation systems, we’re enabling the next generation of African AI breakthroughs.](https://equalyz.ai/gpu4good/)
 - [Schneider Electric Announces New AI Infrastructure Framework to Support Nigeria’s Growing Digital Economy](https://techpoint.africa/brandpress/schneider-electric-announces-new-ai-infrastructure-framework-to-support-nigerias-growing-digital-economy/)
 - [Data Centers started in 2025](https://newsroom.equinix.com/2025-11-10-Equinix-Announces-Plans-for-New-22-Million-Data-Center-in-Lagos,-Nigeria)  
 - [Airtel AI-powered Data Centre set to go live in 2026](https://techcabal.com/2025/08/06/airtel-bets-on-ai-with-120-million-data-centre-set-to-go-live-in-2026/)
 
-* ### **Published Papers by Nigerian Researchers** –
+* ### **Published Papers by Nigerian Researchers** 
   - [AI in Nigeria – Opportunities, challenges and strategic pathways](https://www.lbs.edu.ng/wp-content/uploads/2025/05/ai-in-nigeria-whitepaper.pdf)  
   - [How Effective Are AI Models in Translating English Scientific Texts to Nigerian Pidgin: A Low-resource Language?](https://openreview.net/pdf?id=hDzVxEUN5C)  
   - [Geo-Semantics Analysis of Environmental Disasters in Nigeria](https://www.climatechange.ai/papers/iclr2025/53)
@@ -170,7 +185,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [Artificial Intelligence: Opportunities, Issues and Applications in Banking, Accounting, and Auditing in Nigeria](https://journalajeba.com/index.php/AJEBA/article/view/241)
   - [Artificial Intelligence in Nigeria: Challenges and Opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5269530)
 
-* **Directory of AI Startups** – 
+* **Directory of AI Startups** 
   - [EqualyzAI](https://equalyz.ai/) — Works with native speakers to collect rich, hyperlocal data—driving AI forward and creating real economic value for African communities.
   - [MasakhaNER](https://www.masakhane.io/) — Masakhane welcomes everyone, no matter their NLP experience, fostering inclusiveness and knowledge sharing.
   - [AfriHate](https://github.com/AfriHate/AfriHate) — Hate and Offensive Speech Detection for African Languages. 
@@ -205,25 +220,9 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 
 ---
 
-## National AI Strategy (NAIS)
-
-* **[NAIS Document](https://ncair.nitda.gov.ng/wp-content/uploads/2024/08/National-AI-Strategy_01082024-copy.pdf)** – Full strategy text and summary.
-
-* **[NAIS Unveiling and Launch Media](https://nairametrics.com/2025/04/16/nigeria-launches-national-ai-strategy-to-drive-ai-development-and-productivity/)**
-
-* **Government Involvement** – Key agencies:  
-  - [National Information Techonology Development Agency (NITDA)](https://nitda.gov.ng) 
-  - [The National Centre for Artifical Intelligence and Robotics (NCAIR)](https://ncair.nitda.gov.ng/)
-  - [Nigeria Data Protection Commission (NDPC)](https://ndpc.gov.ng/)
-  - [Nigerian Communications Commission (NCC)](https://www.ncc.gov.ng/)
-  - [Federal Competition and Consumer Protection Commission (FCCPC)](https://fccpc.gov.ng/)
-  - [Federal Ministry of Communications, Innovation & Digital Economy](https://www.fmcide.gov.ng/)
-
----
-
 ## Sectorial Applications
 
-* **Sectoral AI Adoptions** – 
+* **Sectoral AI Adoptions**  
   - Education, Talent and Workforce Development -
      - [AI Collective Executive Learning Series](https://www.youtube.com/watch?v=c2BFNizBs0I&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt)
      - [2025 DSNAI Bootcamp](https://datasciencenigeria.org/2025_aibootcamp/)  
@@ -244,7 +243,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
      - [Moniepoint Inc. launches “M”, Nigeria’s first AI-powered chatbot for informal economy](https://guardian.ng/business-services/firm-launches-nigerias-first-ai-chatbot-for-informal-economy/) 
 
 
-* **Hackathons** – 
+* **Hackathons** 
   - [Zindi Africa Competitions](https://zindi.africa/)  
   - [DSN AI Bootcamp](https://datasciencenigeria.org/2025_aibootcamp/)
   - [ISACA Abuja Code4Privacy Hackathon 2025](https://www.hackathon.isacaabuja.org/)
@@ -269,39 +268,10 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 
 ---
 
-## Community Platforms
-
-* **Social Media Handles** 
-  - [Youtube:Nigeria AI Collective](https://www.youtube.com/@aicollectiveng)
-  - [Twitter: @aicollectiveng](https://x.com/aicollectiveng)  
-  - [LinkedIn: Nigeria AI Collective](https://www.linkedin.com/company/nigeria-ai-collective/)
-
-* **Global Collaboration Partnerships** –
-  - [Cassava AI Exchange connects African telcos to OpenAI, Google, and Anthropic](https://www.cassava.ai/2025/11/12/africa-first-ai-multi-model-exchange/)
-  - [Nigeria AI Scaling Hub (FMCIDE × Gates Foundation)](https://fmcide.gov.ng/nigeria-launches-ai-scaling-hub-in-collaboration-with-gates-foundation-to-accelerate-impact-in-health-education-and-agriculture/)
-  - [EU–Nigeria Science, Technology, and Innovation Agreement](https://guardian.ng/news/eu-nigeria-deepen-ai-cooperation-through-research-partnerships/)
-  - [Microsoft $1M AI Skilling Initiative for One Million Nigerians](https://punchng.com/microsoft-plans-ai-training-for-one-million-nigerians/)
-  - [Meta × Nigeria National AI Accelerator Program](https://newskobo.com/2025/06/11/nigeria-partners-with-meta-to-launch-national-ai-accelerator/)
-  - [Africa’s First Neutral Multi-Tenant AI Factory (BCN × Zadara × Touchnet)](https://bcnnigeria.net/index.php/africa-s-first-neutral-ai-factory-debuts-in-nigeria-through-bcn-zadara-collaboration/)
-  - [Strategic Stakeholder Learning Immersion in Singapore](https://www.linkedin.com/posts/dsnai_iclr2025-datasciencenigeria-aifornigeria-activity-7326588955150196736-wDwM/)
-  - [Meta partners with RAIN to empower Nigerian AI developers](https://www.linkedin.com/posts/robotics-artificial-intelligence-nigeria-rain_agenticaicertification-metaaideveloperacademy-activity-7392679127029534720-Wyrn)
-
-* **[Registration Form](https://bit.ly/AI-Collective-Com-Onboard)** – Join the AI Collective.
-
----
-
-## Media
-
-* **[Pictures from Events](https://ncair.nitda.gov.ng/gallery)** – Photo archives of hackathons, conferences, and workshops.
-
-* **[NAIS Document](https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf
- )**
-
-* **[Video Compilation of Minister’s Achievements](https://youtu.be/aNnOeT2Rg30)**
 
 ## Data & Open-Source Assets
 
-* Datasets** – A curated list of datasets supporting various African languages:
+* **Datasets** – A curated list of datasets supporting various African languages:
   - [NaijaVoices](https://lanfrica.com/) – Igbo, Hausa, Yoruba
   - [Kanuri TTS and ASR Models(Translators Without Borders)](https://huggingface.co/datasets/CLEAR-Global/TWB-voice-TTS-Kanuri-1.0-sampleset)
   - [TANZIL Dataset](https://tanzil.net/trans/) – Amharic, Hausa, Somali, Swahili, and others
@@ -344,11 +314,11 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [ImageAI Open-source Computer Vision Library](https://github.com/OlafenwaMoses/ImageAI) - ImageAI: AI Computer Vision Library for Python
 
 
-* **Benchmarks** –
-  - [AfroBench: A large-scale benchmark evaluating LLMs on 64 African languages, across 15 NLP tasks, using 22 datasets. It includes classification, QA, translation, generation, etc. Good for evaluating general-purpose and multilingual LLMs on African languages.](https://mcgill-nlp.github.io/AfroBench/index.html)
-  - [IrokoBench: Introduced in (2025 / early-2025) as a benchmark for low-resource African languages. It includes human-translated evaluation sets for 16–17 typologically diverse African languages; tasks include Natural Language Inference (NLI), mathematical reasoning, and multi-choice knowledge QA](https://arxiv.org/abs/2406.03368)
-  - [SAHARA Benchmark: Released in 2025 under the paper “Where Are We? Evaluating LLM Performance on African Languages.” SAHARA covers a broad and representative collection of African languages and evaluates LLMs on multiple tasks.](https://aclanthology.org/2025.acl-long.1572.pdf)
-  - [Benchmarks / Datasets via Masakhane ecosystem: Through Masakhane and its associated resources, there are several standardized datasets / data-resources used for benchmarking — e.g. NER, POS-tagging, news classification, etc., across many African languages including those relevant to Nigeria (Hausa, Igbo, Yoruba, Pidgin](https://lanfrica.com/docs/some-african-nlp-datasets-that-you-can-use-to-build-african-ai)
+* **Benchmarks** 
+  - [AfroBench:](https://mcgill-nlp.github.io/AfroBench/index.html) A large-scale benchmark evaluating LLMs on 64 African languages, across 15 NLP tasks, using 22 datasets. It includes classification, QA, translation, generation, etc. Good for evaluating general-purpose and multilingual LLMs on African languages.
+  - [IrokoBench:](https://arxiv.org/abs/2406.03368) Introduced in (2025 / early-2025) as a benchmark for low-resource African languages. It includes human-translated evaluation sets for 16–17 typologically diverse African languages; tasks include Natural Language Inference (NLI), mathematical reasoning, and multi-choice knowledge QA
+  - [SAHARA Benchmark:](https://aclanthology.org/2025.acl-long.1572.pdf) Released in 2025 under the paper “Where Are We? Evaluating LLM Performance on African Languages.” SAHARA covers a broad and representative collection of African languages and evaluates LLMs on multiple tasks.
+  - [Benchmarks / Datasets via Masakhane ecosystem:](https://lanfrica.com/docs/some-african-nlp-datasets-that-you-can-use-to-build-african-ai) Through Masakhane and its associated resources, there are several standardized datasets / data-resources used for benchmarking — e.g. NER, POS-tagging, news classification, etc., across many African languages including those relevant to Nigeria (Hausa, Igbo, Yoruba, Pidgin.
 
 * **API Libraries & Frameworks**  
   - [Igbo API](https://igboapi.com/)
@@ -358,14 +328,14 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 
 ## Innovation
 
-* **[Innovation Highlights]()** –  
+* **[Innovation Highlights]()** 
   - [DKT Chatbot](https://www.linkedin.com/posts/dkt-nigeria_honeyai-familyplanningmadeeasy-informedchoices-activity-7272201445251198977-3INq/)  
 
 ---
 
 ## Awards
 
-* **Major National Achievement and Recognition in 2025** –
+* **Major National Achievement and Recognitions** 
   - [Nigeria now in the 37th percentile of 2025 Government AI Readiness Index](https://www.linkedin.com/posts/dr-%E2%80%98bosun-tijani-1b027b_nigerianexcellence-ai-activity-7417254568155107328-7CZt?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiM5boBU9nVr4TqW0ygTK5T5Qa8GhSm8Oo)
   - [Nigeria Honorable Minster of Communications, Innovation and Digital Economy Dr Bosun Tijani make 100 AI 2025 List ](https://time.com/collections/time100-ai-2025/7305882/bosun-tijani/)
   - [Nigeria wins global awards for digital governance at OGP Summit](https://thenationonlineng.net/nigeria-wins-global-awards-for-digital-governance-at-ogp-summit/)
@@ -403,3 +373,22 @@ By engaging with the AI Collective, you join a global effort to make artificial 
     - [DSN Medium Article: Deep Learning Indaba 2025](https://datasciencenigeria.medium.com/data-science-nigeria-at-deep-learning-indaba-2025-wins-insights-and-the-road-to-nigeria-2026-df7bac933a9d)  
     - [LinkedIn: Patchizzymba DLI2025](https://www.linkedin.com/posts/patchizzymba_dli2025-urunana-deeplearningindaba-activity-7366520651232219136-UKRD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpmKocBHbJuxazxoNRIJTA7yDRguzGd-3o)  
     - [LinkedIn: Sakinat Folorunso DLI2025](https://www.linkedin.com/posts/sakinat-folorunso-8b747760_indaba2025-dli2025-ururana-activity-7363510450858176514-VKTo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpmKocBHbJuxazxoNRIJTA7yDRguzGd-3o)
+   
+## Community Platforms
+
+* **Visit our Social Media Pages** 
+  - [Youtube](https://www.youtube.com/@aicollectiveng)
+  - [Twitter](https://x.com/aicollectiveng)  
+  - [LinkedIn](https://www.linkedin.com/company/nigeria-ai-collective/)
+
+* **[Community Page](https://bit.ly/AI-Collective-Com-Onboard)** – Join the AI Collective.
+
+---
+
+## Contributors
+- [Data Science Nigeria](https://datasciencenigeria.org/)
+- [Oluwaseun Nifemi](https://www.linkedin.com/in/oluwaseun-nifemi-abdul/)
+- [Ibe Nchedo Precious](https://github.com/PreciousIbe)
+- [Blessing Akanimoh James](https://github.com/Blessing-Akanimoh-James)
+- [Emmanuel Davis](https://github.com/EODavis)
+
