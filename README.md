@@ -240,6 +240,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
      - [Kem - A Health Coach Chatbot](https://www.instagram.com/reel/DN0bWUFXHoQ/)
   - AI in Agriculture -
      - [FG unveils AI platform to link farmers to researcher](https://guardian.ng/news/fg-unveils-ai-platform-to-link-farmers-to-researchers/)
+     - [FarmCrowdy AI](https://www.gaif.ai/blogs/N33-farmcrowdy-ai-powered-farming-nigeria)
   - AI in Financial Services -
      - [Moniepoint Inc. launches “M”, Nigeria’s first AI-powered chatbot for informal economy](https://guardian.ng/business-services/firm-launches-nigerias-first-ai-chatbot-for-informal-economy/) 
 
@@ -282,7 +283,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Synopsis - The AI Engineering Conference](https://synopsis.ai/)
   - [APIConf Lagos 2025](https://apiconf.net/)
   - [InnTech Summit 2025](https://inntechsummit.com/)
-  - [Tech Revolution Africa]([https://techrevolutionafrica.org/)
+  - [Tech Revolution Africa](https://techrevolutionafrica.org/)
   - [Innovate AI Lagos 2025](https://kanempress.org/innovateai-lagos-2025-nigerias-largest-ai-conference-set-to-drive-cross-sectoral-innovation/)
   - [Africa Tech Festival](https://africatechfestival.com/)
   - [Global AI Summit  Africa 2025](https://www.linkedin.com/pulse/pre-summit-note-global-ai-summit-africa-kigali-2025-dr-bosun-tijani-bpzke/)
@@ -330,13 +331,9 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [MAFAND-MT Dataset](https://lacunafund.org/datasets/language/) – 16 African Languages
   - [Common Voice Dataset](https://commonvoice.mozilla.org/en/datasets) – Various African Languages
   - [AfriSenti-SemEval Dataset](https://github.com/afrisenti-semeval/afrisent-semeval-2023) – 14 African Languages
-  - [African Proverbs API](https://github.com/elvis-ndubuisi/african-proverbs) – Multiple African Languages
   - [CHOWNET-V1 datasets](https://github.com/AISaturdaysLagos/CHOWNET) - Chownet: Nigerian Food Image Dataset
   - [ImageAI Open-source Computer Vision Library](https://github.com/OlafenwaMoses/ImageAI) - ImageAI: AI Computer Vision Library for Python
-  - [All Nigeria API](https://github.com/aligorithm/allnigeria-api)
-  - [NaijaSenti](https://github.com/hausanlp/NaijaSenti) - Igbo, Hausa, Yoruba, Pidgin
-  - [Naija Faker](https://github.com/onedebos/naija-faker)
-  - 
+  - [NaijaSenti](https://github.com/hausanlp/NaijaSenti) - Igbo, Hausa, Yoruba, Pidgin 
 
 
 * ### **Benchmarks** 
@@ -347,7 +344,17 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
 
 * ### **API Libraries & Frameworks**  
   - [Igbo API](https://igboapi.com/)
-  - [Hugging Face – Nigerian Language Models](https://huggingface.co/models)  
+  - [Hugging Face – Nigerian Language Models](https://huggingface.co/models)
+  - [Nigerian States API](https://github.com/emekaokoye/NG-States-API?utm_source=chatgpt.com)
+  - [Nigeria GeoJSON & Location Data API](https://github.com/temikeezy/nigeria-geojson-data)
+  - [Nigeria States & LGAs API](https://github.com/Ordu-Tech/ng-state-lga-api?utm_source=chatgpt.com)
+  - [All Nigeria API](https://github.com/aligorithm/allnigeria-api)
+  - [African Proverbs API](https://github.com/elvis-ndubuisi/african-proverbs)
+  - [Naija Faker](https://github.com/onedebos/naija-faker)
+  - [Open Banking Nigeria API](https://github.com/openbankingnigeria/api?utm_source=chatgpt.com)
+  - [LumiID API](https://lumiid.com/api/docs/?utm_source=chatgpt.com)
+  - [20,000 past questions API end points for POST-UTME, UTME, WASSCE, NECO questions](https://github.com/Seunope/aloc-endpoints?utm_source=chatgpt.com)
+  - [Nigerian States Data API (Zyla API Hub)](https://zylalabs.com/api-marketplace/location%2B%26%2Bmapping/nigerian%2Bstates%2Bdata%2Bapi/6221?utm_source=chatgpt.com)
 
 
 ## Innovation
