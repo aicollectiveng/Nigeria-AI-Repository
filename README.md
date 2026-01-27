@@ -15,7 +15,6 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
     - [How to use this repository](#how-to-use-this-repository)
 - [Nigeria AI Collective Learning Series](#nigeria-ai-collective-learning-series)
   - [AI Collective Learning Series](#ai-collective-learning-series)
-  - [Media](#media)
 - [Nigeria AI Portfolio and Government Involvement](#nigeria-ai-portfolio-and-government-involvement)
   - [Governmental bodies Involvement](#governmental-bodies-involvement)
   - [Activities of the Federal Minister of Communications, Innovation and Digital Economy, Dr. Bosun Tijani](#activites-of-the-federal-minister-of-communications-innovation-and-digital-economy-dr-bosun-tijani)
@@ -40,21 +39,25 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 - [Awards](#awards)
   - [Major National Achievement and Recognitions](#major-national-achievement-and-recognitions)
 - [Accepted AI Papers in Conferences](#accepted-ai-papers-in-conferences)
-  - [Conference Papers](#conference-papers)
   - [NeurIPS](#neurips)
-
+  - [ICLR](#iclr)
+  - [ACL](#acl)
+  - [Deep Learning Indaba](#deep-learning-indaba)
+- [Community Platforms](community-platforms)
+  - [Visit our Social Media Pages](#visit-our-social-media-pages)
+- [Contributors](#contributors)
 
 ---
 
 ## Nigeria AI Collective Overview Page
 
-* **[Mission Statement]()** - 
+* ### [Mission Statement]() 
 The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
-* **[Scope]()** - 
+* ### [Scope]() 
 The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
-* **[Access Guide]()** 
+* ### [Access Guide]()
 
 **Who is this for?**
 
@@ -64,7 +67,7 @@ Entrepreneurs and startups exploring AI-driven solutions and business models.
 Policymakers, advocates, and ethicists interested in the societal impacts and governance of AI.
 Students and enthusiasts eager to learn, experiment, or join a collaborative AI community.
 
-**How to use this repository:**
+### How to use this repository:
 
 **Explore:** Browse curated lists of AI tools, research, and resources organized by topic and type.
 
@@ -79,7 +82,6 @@ Students and enthusiasts eager to learn, experiment, or join a collaborative AI 
 By engaging with the AI Collective, you join a global effort to make artificial intelligence more open, ethical, and impactful for everyone.
 
 
----
 
 ## Nigeria AI Collective Learning Series
 
@@ -99,14 +101,12 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - Episode 12: [AI Governance – Managing Risks & Compliance in AI Adoption](https://www.youtube.com/watch?v=iHgdKq4vdrQ&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=7)
   - Episode 13: [AI for Social Good and Shared Prosperity](https://www.youtube.com/watch?v=EnRh69bgG9I&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=5)
   
+Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https://www.youtube.com/@aicollectiveng/playlists)
 
-* **Media** – Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https://www.youtube.com/@aicollectiveng/playlists)
-
----
 
 ## Nigeria AI Portfolio and Government Involvement
 
-* **Governmental bodies Involvement** – Key agencies 
+* ### Governmental bodies Involvement 
   - [National Information Techonology Development Agency (NITDA)](https://nitda.gov.ng) 
   - [The National Centre for Artifical Intelligence and Robotics (NCAIR)](https://ncair.nitda.gov.ng/)
   - [Nigeria Data Protection Commission (NDPC)](https://ndpc.gov.ng/)
@@ -114,7 +114,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [Federal Competition and Consumer Protection Commission (FCCPC)](https://fccpc.gov.ng/)
   - [Federal Ministry of Communications, Innovation & Digital Economy](https://www.fmcide.gov.ng/)
  
-* **[Activites of the Federal Minister of Communications, Innovation and Digital Economy, Dr. Bosun Tijani](https://youtu.be/aNnOeT2Rg30)**
+* ### [Activites of the Federal Minister of Communications, Innovation and Digital Economy, Dr. Bosun Tijani](https://youtu.be/aNnOeT2Rg30)
 
 * ### **AI Policy and Governance** 
   - [Nigeria National AI Strategy Publication](https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf)
@@ -135,7 +135,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [Nigeria National AI Trust](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - The world's first government-backed trust dedicated to AI, designed to mobilize resources, guide development, and ensure ethical oversight of AI’s national impact.
   - [Digital Inclusion and Universal Communication Access Project](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - Federal initiative expanding broadband and digital infrastructure to unserved and underserved areas, laying essential groundwork for equitable AI access and innovation.
  
-*###  **Global Collaboration Partnerships** 
+* ###  Global Collaboration Partnerships
   - [Cassava AI Exchange connects African telcos to OpenAI, Google, and Anthropic](https://www.cassava.ai/2025/11/12/africa-first-ai-multi-model-exchange/)
   - [Nigeria AI Scaling Hub (FMCIDE × Gates Foundation)](https://fmcide.gov.ng/nigeria-launches-ai-scaling-hub-in-collaboration-with-gates-foundation-to-accelerate-impact-in-health-education-and-agriculture/)
   - [EU–Nigeria Science, Technology, and Innovation Agreement](https://guardian.ng/news/eu-nigeria-deepen-ai-cooperation-through-research-partnerships/)
@@ -144,6 +144,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [Africa’s First Neutral Multi-Tenant AI Factory (BCN × Zadara × Touchnet)](https://bcnnigeria.net/index.php/africa-s-first-neutral-ai-factory-debuts-in-nigeria-through-bcn-zadara-collaboration/)
   - [Strategic Stakeholder Learning Immersion in Singapore](https://www.linkedin.com/posts/dsnai_iclr2025-datasciencenigeria-aifornigeria-activity-7326588955150196736-wDwM/)
   - [Meta partners with RAIN to empower Nigerian AI developers](https://www.linkedin.com/posts/robotics-artificial-intelligence-nigeria-rain_agenticaicertification-metaaideveloperacademy-activity-7392679127029534720-Wyrn)
+  - [UNESCO RAM](https://www.ungm.org/Public/Notice/266488)
     
 * ### **Tools & Platforms** 
   - [AfroSLM](https://afroslm.equalyz.ai/) - Developed by EqualyzAI, AfroSLM is a small language model designed for African languages, with a financial focus for Yoruba and also supporting general reasoning in Nigerian indigenous languages. It enables AI-powered translation and language understanding, helping to digitize and preserve local languages.
@@ -168,7 +169,8 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 - [Airtel AI-powered Data Centre set to go live in 2026](https://techcabal.com/2025/08/06/airtel-bets-on-ai-with-120-million-data-centre-set-to-go-live-in-2026/)
 
 * ### **Published Papers by Nigerian Researchers** 
-  - [AI in Nigeria – Opportunities, challenges and strategic pathways](https://www.lbs.edu.ng/wp-content/uploads/2025/05/ai-in-nigeria-whitepaper.pdf)  
+  - [AI in Nigeria – Opportunities, challenges and strategic pathways](https://www.lbs.edu.ng/wp-content/uploads/2025/05/ai-in-nigeria-whitepaper.pdf)
+  - [AI Landscape Report](https://ainowinstitute.org/publications/research/ai-now-2025-landscape-report)
   - [How Effective Are AI Models in Translating English Scientific Texts to Nigerian Pidgin: A Low-resource Language?](https://openreview.net/pdf?id=hDzVxEUN5C)  
   - [Geo-Semantics Analysis of Environmental Disasters in Nigeria](https://www.climatechange.ai/papers/iclr2025/53)
   - [AI in Yoruba STEM Education for Early Childhood Learning: An Evaluation on Translation Quality and Context](https://openreview.net/forum?id=scSLeA8DJr&referrer=%5Bthe%20profile%20of%20Ife%20Adebara%5D(%2Fprofile%3Fid%3D~Ife_Adebara1))
@@ -185,7 +187,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [Artificial Intelligence: Opportunities, Issues and Applications in Banking, Accounting, and Auditing in Nigeria](https://journalajeba.com/index.php/AJEBA/article/view/241)
   - [Artificial Intelligence in Nigeria: Challenges and Opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5269530)
 
-* **Directory of AI Startups** 
+* ### **Directory of AI Startups** 
   - [EqualyzAI](https://equalyz.ai/) — Works with native speakers to collect rich, hyperlocal data—driving AI forward and creating real economic value for African communities.
   - [MasakhaNER](https://www.masakhane.io/) — Masakhane welcomes everyone, no matter their NLP experience, fostering inclusiveness and knowledge sharing.
   - [AfriHate](https://github.com/AfriHate/AfriHate) — Hate and Offensive Speech Detection for African Languages. 
@@ -217,12 +219,11 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [SeamlessHR](https://seamlesshr.com/) — Leverages AI for HR functions such as candidate screening, performance management, and workforce analytics, optimizing recruitment and employee development.
   - [CapitalSage](https://www.capitalsage.ng/) — Embeds AI into digital banking solutions for credit scoring, personalized customer recommendations, and fraud detection, especially for underserved populations
   - [XaraAI](https://usexara.ai/) — Personal AI-powered financial assistant that helps individuals and small businesses manage finances, track spending, gain insights, and make smarter financial decisions using intelligent automation.
-
----
+    
 
 ## Sectorial Applications
 
-* **Sectoral AI Adoptions**  
+*  ### **Sectoral AI Adoptions**  
   - Education, Talent and Workforce Development -
      - [AI Collective Executive Learning Series](https://www.youtube.com/watch?v=c2BFNizBs0I&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt)
      - [2025 DSNAI Bootcamp](https://datasciencenigeria.org/2025_aibootcamp/)  
@@ -243,7 +244,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
      - [Moniepoint Inc. launches “M”, Nigeria’s first AI-powered chatbot for informal economy](https://guardian.ng/business-services/firm-launches-nigerias-first-ai-chatbot-for-informal-economy/) 
 
 
-* **Hackathons** 
+* ### **Hackathons** 
   - [Zindi Africa Competitions](https://zindi.africa/)  
   - [DSN AI Bootcamp](https://datasciencenigeria.org/2025_aibootcamp/)
   - [ISACA Abuja Code4Privacy Hackathon 2025](https://www.hackathon.isacaabuja.org/)
@@ -262,16 +263,36 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 
 * ### **Events** – Past physical conferences & roundtables:  
   - [Smarter Health, Stronger Systems: Uniting AI and Human Capital for Scalable Community Health Impact Webinar](https://youtu.be/6CddcfM4amc?si=1-5JiIPLwgbc4yZk)
+  - [AI Collective Industry Event](https://www.youtube.com/watch?v=knDnL-sPZQA)
   - [2025 DataFest Africa Convey 3000+ participants](https://www.datacommunityafrica.org/datafestafrica/)
   - [IndabaX Nigeria](https://indabaxng.github.io/2025/about-us.html)
   - [5th International Conference on AI and Robotics](https://unilag.edu.ng/event/64301/)
-
----
+  - [IndabaX Nigeria 2025](https://indabaxng.github.io/2025/about-us.html)
+  - [DSN AI Bootcamp](https://www.datasciencenigeria.org/)
+  - [GITEX Nigeria 2025](https://www.gitexnigeria.ng/)
+  - [More on Gitex 2025](https://www.ewere.tech/blog/gitex-nigeria-2025-uniting-africas-tech-future-through-innovation-policy-startups/)
+  - [SuperAI 2025](https://www.superai.com/)
+  - [Africa Generative AI Conference 2025](https://africagenerativeai.org/)
+  - [AgentCon - Lagos](https://globalai.community/chapters/lagos/events/agentcon-2025-lagos/)
+  - [ICEGOV 2025](https://www.icegov.org/2025/)
+  - [Moonshot](https://moonshot.techcabal.com/)
+  - [DataFest Africa](https://www.datacommunityafrica.org/datafestafrica/)
+  - [AI & Sovereign Tech: Building Africa’s Digital Independence](https://www.techpolicyafrica.org/)
+  - [DevFest Lagos](https://devfestlagos.com/)
+  - [Synopsis - The AI Engineering Conference](https://synopsis.ai/)
+  - [APIConf Lagos 2025](https://apiconf.net/)
+  - [InnTech Summit 2025](https://inntechsummit.com/)
+  - [Tech Revolution Africa]([https://techrevolutionafrica.org/)
+  - [Innovate AI Lagos 2025](https://kanempress.org/innovateai-lagos-2025-nigerias-largest-ai-conference-set-to-drive-cross-sectoral-innovation/)
+  - [Africa Tech Festival](https://africatechfestival.com/)
+  - [Global AI Summit  Africa 2025](https://www.linkedin.com/pulse/pre-summit-note-global-ai-summit-africa-kigali-2025-dr-bosun-tijani-bpzke/)
+  - [Deep Learning Indaba](https://deeplearningindaba.com/2025/)
+  - [Global AI Summit in Africa 2025+](https://www.linkedin.com/pulse/pre-summit-note-global-ai-summit-africa-kigali-2025-dr-bosun-tijani-bpzke/)
 
 
 ## Data & Open-Source Assets
 
-* **Datasets** – A curated list of datasets supporting various African languages:
+* ### **Datasets** – A curated list of datasets supporting various African languages:
   - [NaijaVoices](https://lanfrica.com/) – Igbo, Hausa, Yoruba
   - [Kanuri TTS and ASR Models(Translators Without Borders)](https://huggingface.co/datasets/CLEAR-Global/TWB-voice-TTS-Kanuri-1.0-sampleset)
   - [TANZIL Dataset](https://tanzil.net/trans/) – Amharic, Hausa, Somali, Swahili, and others
@@ -312,30 +333,32 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [African Proverbs API](https://github.com/elvis-ndubuisi/african-proverbs) – Multiple African Languages
   - [CHOWNET-V1 datasets](https://github.com/AISaturdaysLagos/CHOWNET) - Chownet: Nigerian Food Image Dataset
   - [ImageAI Open-source Computer Vision Library](https://github.com/OlafenwaMoses/ImageAI) - ImageAI: AI Computer Vision Library for Python
+  - [All Nigeria API](https://github.com/aligorithm/allnigeria-api)
+  - [NaijaSenti](https://github.com/hausanlp/NaijaSenti) - Igbo, Hausa, Yoruba, Pidgin
+  - [Naija Faker](https://github.com/onedebos/naija-faker)
+  - 
 
 
-* **Benchmarks** 
+* ### **Benchmarks** 
   - [AfroBench:](https://mcgill-nlp.github.io/AfroBench/index.html) A large-scale benchmark evaluating LLMs on 64 African languages, across 15 NLP tasks, using 22 datasets. It includes classification, QA, translation, generation, etc. Good for evaluating general-purpose and multilingual LLMs on African languages.
   - [IrokoBench:](https://arxiv.org/abs/2406.03368) Introduced in (2025 / early-2025) as a benchmark for low-resource African languages. It includes human-translated evaluation sets for 16–17 typologically diverse African languages; tasks include Natural Language Inference (NLI), mathematical reasoning, and multi-choice knowledge QA
   - [SAHARA Benchmark:](https://aclanthology.org/2025.acl-long.1572.pdf) Released in 2025 under the paper “Where Are We? Evaluating LLM Performance on African Languages.” SAHARA covers a broad and representative collection of African languages and evaluates LLMs on multiple tasks.
   - [Benchmarks / Datasets via Masakhane ecosystem:](https://lanfrica.com/docs/some-african-nlp-datasets-that-you-can-use-to-build-african-ai) Through Masakhane and its associated resources, there are several standardized datasets / data-resources used for benchmarking — e.g. NER, POS-tagging, news classification, etc., across many African languages including those relevant to Nigeria (Hausa, Igbo, Yoruba, Pidgin.
 
-* **API Libraries & Frameworks**  
+* ### **API Libraries & Frameworks**  
   - [Igbo API](https://igboapi.com/)
   - [Hugging Face – Nigerian Language Models](https://huggingface.co/models)  
 
----
 
 ## Innovation
 
-* **[Innovation Highlights]()** 
+* ### **[Innovation Highlights]()** 
   - [DKT Chatbot](https://www.linkedin.com/posts/dkt-nigeria_honeyai-familyplanningmadeeasy-informedchoices-activity-7272201445251198977-3INq/)  
 
----
 
 ## Awards
 
-* **Major National Achievement and Recognitions** 
+* ### **Major National Achievement and Recognitions** 
   - [Nigeria now in the 37th percentile of 2025 Government AI Readiness Index](https://www.linkedin.com/posts/dr-%E2%80%98bosun-tijani-1b027b_nigerianexcellence-ai-activity-7417254568155107328-7CZt?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiM5boBU9nVr4TqW0ygTK5T5Qa8GhSm8Oo)
   - [Nigeria Honorable Minster of Communications, Innovation and Digital Economy Dr Bosun Tijani make 100 AI 2025 List ](https://time.com/collections/time100-ai-2025/7305882/bosun-tijani/)
   - [Nigeria wins global awards for digital governance at OGP Summit](https://thenationonlineng.net/nigeria-wins-global-awards-for-digital-governance-at-ogp-summit/)
@@ -346,12 +369,11 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   -  [NUC Introduces Artificial Intelligence, Nuclear Engineering Among 13 New Courses For Nigerian Universities ](https://www.arise.tv/nuc-introduces-artificial-intelligence-nuclear-engineering-among-13-new-courses-for-nigerian-universities/)
   -  [Nigeria announced establishment of its Its First National AI Centre of Excellence at the University of Jos](https://www.premiumtimesng.com/news/top-news/848128-fg-to-launch-first-national-ai-centre-of-excellence.html)
 
----
 
 ## Accepted AI Papers in Conferences
 
 **Conference Papers**  
-  - [NeurIPS](https://proceedings.neurips.cc/)  
+  - ### [NeurIPS](https://proceedings.neurips.cc/)  
     - [Women in AI Spotlight](https://www.linkedin.com/posts/women-in-ai-nigeria_spotlight-misturah-alaran-innovating-activity-7406260815542108160-G1eS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiM5boBU9nVr4TqW0ygTK5T5Qa8GhSm8Oo)  
     - [Women in AI Spotlight II](https://www.linkedin.com/posts/women-in-ai-nigeria_spotlight-oluwaseyi-afe-phd-advancing-activity-7406257908784603136-xjwC/)  
     - [DSN at NeurIPS](https://www.linkedin.com/posts/dsnai_datasciencenigeria-neurips2025-activity-7399472359784476672-0PlF/)  
@@ -359,31 +381,30 @@ By engaging with the AI Collective, you join a global effort to make artificial 
     - [Women in Machine Learning (WiML) Workshop](https://www.linkedin.com/posts/ukachi-eze-mbey_neurips2025-ai-nlp-activity-7412847451017052160-HMpr/)  
     - [Pidgin Science Voices & Low-Resource Languages](https://www.linkedin.com/posts/flora-oladipupo_neurips2025-nlp-lowresourcelanguage-activity-7406981507283722242-6nH6/)
 
-  - [ICLR](https://iclr.cc/)  
+  - ### [ICLR](https://iclr.cc/)  
     - [Data Science Nigeria](https://www.linkedin.com/posts/dsnai_datasciencenigeria-activity-7320456521341947905-qO6r/)  
     - [EqualyzAI Didactic Paper Award](https://www.linkedin.com/posts/bayoadekanmbi_iclr2025-aiforafrica-agenticai-activity-7328431518643580928-q6Dl/)  
     - [Climate Change AI](https://www.climatechange.ai/papers/iclr2025/53)
 
-  - [ACL](https://www.aclweb.org/)  
+  - ### [ACL](https://www.aclweb.org/)  
     - [LinkedIn: DSN African NLP 2025](https://www.linkedin.com/posts/dsnai_africanlp-datasciencenigeria-africanlp2025-activity-7353043968407805952-NTwx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpmKocBHbJuxazxoNRIJTA7yDRguzGd-3o)  
     - [ACL Anthology: 2025 African NLP Paper](https://aclanthology.org/2025.africanlp-1.14/)  
     - [ACL Anthology: 2025 LoResMT Paper](https://aclanthology.org/2025.loresmt-1.6/)
 
-  - [Deep Learning Indaba 2025](https://deeplearningindaba.com/2025/)  
+  - ### [Deep Learning Indaba](https://deeplearningindaba.com/2025/)  
     - [DSN Medium Article: Deep Learning Indaba 2025](https://datasciencenigeria.medium.com/data-science-nigeria-at-deep-learning-indaba-2025-wins-insights-and-the-road-to-nigeria-2026-df7bac933a9d)  
     - [LinkedIn: Patchizzymba DLI2025](https://www.linkedin.com/posts/patchizzymba_dli2025-urunana-deeplearningindaba-activity-7366520651232219136-UKRD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpmKocBHbJuxazxoNRIJTA7yDRguzGd-3o)  
     - [LinkedIn: Sakinat Folorunso DLI2025](https://www.linkedin.com/posts/sakinat-folorunso-8b747760_indaba2025-dli2025-ururana-activity-7363510450858176514-VKTo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpmKocBHbJuxazxoNRIJTA7yDRguzGd-3o)
    
 ## Community Platforms
 
-* **Visit our Social Media Pages** 
+* ### **Visit our Social Media Pages** 
   - [Youtube](https://www.youtube.com/@aicollectiveng)
   - [Twitter](https://x.com/aicollectiveng)  
   - [LinkedIn](https://www.linkedin.com/company/nigeria-ai-collective/)
 
 * **[Community Page](https://bit.ly/AI-Collective-Com-Onboard)** – Join the AI Collective.
 
----
 
 ## Contributors
 - [Data Science Nigeria](https://datasciencenigeria.org/)
