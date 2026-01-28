@@ -25,6 +25,7 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
   - [AI Infrastructure](#ai-infrastructure)
   - [Published Papers by Nigerian Researchers](#published-papers-by-nigerian-researchers)
   - [Directory of AI Startups](#directory-of-ai-startups)
+  - [AI Learning Content Developed By Nigerians](#ai-learning-content-developed-by-nigerians)
 - [Sectorial Applications](#sectorial-applications)
   - [Sectoral AI Adoptions](#sectoral-ai-adoptions)
   - [Hackathons](#hackathons)
@@ -133,6 +134,8 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Artificial Intelligence Industry Collective (AI Collective)](https://ncair.nitda.gov.ng/aicollective/) - A coalition of civil society, academic, private, and governmental players advancing responsible and inclusive AI development and adoption, emphasizing ethical and social impact.
   - [Nigeria National AI Trust](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - The world's first government-backed trust dedicated to AI, designed to mobilize resources, guide development, and ensure ethical oversight of AI’s national impact.
   - [Digital Inclusion and Universal Communication Access Project](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - Federal initiative expanding broadband and digital infrastructure to unserved and underserved areas, laying essential groundwork for equitable AI access and innovation.
+  - [Data Science Nigeria's Arewa Ladies for Tech](https://datasciencenigeria.org/arewa/) - An initiative empowering young women in Northern Nigeria with digital skills, mentorship, and opportunities in technology and data science.
+   
  
 * ###  Global Collaboration Partnerships
   - [Cassava AI Exchange connects African telcos to OpenAI, Google, and Anthropic](https://www.cassava.ai/2025/11/12/africa-first-ai-multi-model-exchange/)
@@ -187,37 +190,43 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Artificial Intelligence in Nigeria: Challenges and Opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5269530)
 
 * ### **Directory of AI Startups** 
-  - [EqualyzAI](https://equalyz.ai/) — Works with native speakers to collect rich, hyperlocal data—driving AI forward and creating real economic value for African communities.
-  - [MasakhaNER](https://www.masakhane.io/) — Masakhane welcomes everyone, no matter their NLP experience, fostering inclusiveness and knowledge sharing.
+  - [EqualyzAI](https://equalyz.ai/) - Works with native speakers to collect rich, hyperlocal data—driving AI forward and creating real economic value for African communities.
+  - [MasakhaNER](https://www.masakhane.io/) - Masakhane welcomes everyone, no matter their NLP experience, fostering inclusiveness and knowledge sharing.
   - [AfriHate](https://github.com/AfriHate/AfriHate) — Hate and Offensive Speech Detection for African Languages. 
-  - [Ubenwa (Nanni AI)](https://www.ubenwa.ai/) — AI platform for cry interpretation of Newborns.
-  - [CyberAgric](https://cyberagric.com/) — AI-powered mobile app that diagnoses crop diseases through image analysis and provides tailored treatment recommendations.
-  - [Awarri](https://www.awarri.com/) — Awarri is building an inclusive AI infrastructure that supports Nigeria’s local creator and developer ecosystem. 
-  - [RetailLoop](https://www.retailloop.co/) — an AI-powered platform designed to optimize commerce for enterprises across global markets. 
-  - [NebulaPay](https://www.nebulapay.com/) — an AI-powered conversational payment platform designed to simplify recurring transactions in their local languages.
-  - [Tensflare](https://tensflare.com/) — Tensflare offers a suite of AI-powered solutions designed to streamline business operations, particularly in contract management, legal workflows, and team collaboration.
-  - [ELZAI](https://www.elzai.com/) — ElizaAI is an innovative AI-driven platform designed to revolutionize the way we interact with technology by bridging the gap between human memory and AI.
-  - [Helium Health](https://heliumhealth.com/) — Helium Health is leveraging AI to streamline hospital operations, enhance patient care, and improve medical decision-making.
-  - [Unbabel](https://unbabel.com/) — This platform integrates machine translation with human editing to ensure high-quality translations that are contextually appropriate.
-  - [BetaLife Health](https://betalifehealth.com/) — An AI-powered platform enhancing blood supply management for hospitals. It integrates real-time data analytics to predict blood demand, optimize logistics, and connects donors to recipients, improving patient outcomes and reducing wastage.
-  - [Bunce](https://betalifehealth.com/) — A SaaS platform using AI to drive customer engagement and automate payment processes for African businesses, enabling smarter messaging, personalized campaigns, and better retention across channels like email, SMS, and WhatsApp.
-  - [Intron Health](https://speech.intron.health/login) — Provides AI-powered clinical speech recognition tailored to African accents, supporting doctors with faster, accurate documentation and improving the efficiency of Electronic Health Records in hospitals.
-  - [Lendsqr](https://lendsqr.com/nigeria) — A fintech startup using AI for advanced loan management and credit decisioning. Its loan origination platform leverages voice and video analysis to assess borrowers, improving access to credit for the underserved.
-  - [DRO Health](https://drohealth.com/) — An AI-driven telemedicine platform connecting patients with certified doctors remotely and providing digital health management, appointment scheduling, and AI-based triage tools.
-  - [E-doc Online](https://e-doconline.co.uk/home) — Offers an AI-powered compliance and credit intelligence solution, using real-time banking data to streamline onboarding and automate lending decisions for financial institutions.
-  - [GoNomad](https://gonomadhq.com/) — Helps freelancers and businesses in Africa use AI to automate business registration and receive payments internationally, bridging gaps for cross-border entrepreneurship
-  - [Middleman](https://www.midddleman.co/) — AI-enhanced sourcing and payments platform, streamlining and automating imports from China for African businesses with intelligent supply chain optimization.
-  - [Myltura](https://myitura.com/) — Digital health platform using AI to provide remote healthcare, diagnostic access, and integrated data services, supporting patients and providers with timely, personalized insights.
-  - [Pastel](https://www.pastel.africa/) — Delivers AI fraud detection and enterprise-grade automation solutions for banks and fintechs, improving security and transaction monitoring.
-  - [Scandium](https://getscandium.com/) — Specializes in AI-powered quality assurance for software teams, automating bug detection and accelerating product releases.
-  - [Interactif AI](https://www.interactif.ai/) — Builds conversational AI and chatbot solutions for enterprises, leveraging natural language processing for customer engagement and automation. 
-  - [Curacel](https://www.curacel.co/) — Integrates AI to automate insurance claims processing, expense validation, and fraud detection, serving healthcare insurers and financial institutions.
-  - [Richly AI Limited](https://richlyai.com/) — Applies machine learning to predictive analytics, process automation, and business intelligence for corporate clients in Nigeria.
-  - [AwaDoc](https://www.awadoc.com/) — AI-powered platform facilitating remote medical consultations and healthcare advice through conversational bots, increasing healthcare accessibility.
-  - [SeamlessHR](https://seamlesshr.com/) — Leverages AI for HR functions such as candidate screening, performance management, and workforce analytics, optimizing recruitment and employee development.
-  - [CapitalSage](https://www.capitalsage.ng/) — Embeds AI into digital banking solutions for credit scoring, personalized customer recommendations, and fraud detection, especially for underserved populations
-  - [XaraAI](https://usexara.ai/) — Personal AI-powered financial assistant that helps individuals and small businesses manage finances, track spending, gain insights, and make smarter financial decisions using intelligent automation.
-    
+  - [Ubenwa (Nanni AI)](https://www.ubenwa.ai/) - AI platform for cry interpretation of Newborns.
+  - [CyberAgric](https://cyberagric.com/) - AI-powered mobile app that diagnoses crop diseases through image analysis and provides tailored treatment recommendations.
+  - [Awarri](https://www.awarri.com/) - Awarri is building an inclusive AI infrastructure that supports Nigeria’s local creator and developer ecosystem. 
+  - [RetailLoop](https://www.retailloop.co/) - an AI-powered platform designed to optimize commerce for enterprises across global markets. 
+  - [NebulaPay](https://www.nebulapay.com/) - an AI-powered conversational payment platform designed to simplify recurring transactions in their local languages.
+  - [Tensflare](https://tensflare.com/) - Tensflare offers a suite of AI-powered solutions designed to streamline business operations, particularly in contract management, legal workflows, and team collaboration.
+  - [ELZAI](https://www.elzai.com/) - ElizaAI is an innovative AI-driven platform designed to revolutionize the way we interact with technology by bridging the gap between human memory and AI.
+  - [Helium Health](https://heliumhealth.com/) - Helium Health is leveraging AI to streamline hospital operations, enhance patient care, and improve medical decision-making.
+  - [Unbabel](https://unbabel.com/) - This platform integrates machine translation with human editing to ensure high-quality translations that are contextually appropriate.
+  - [BetaLife Health](https://betalifehealth.com/) - An AI-powered platform enhancing blood supply management for hospitals. It integrates real-time data analytics to predict blood demand, optimize logistics, and connects donors to recipients, improving patient outcomes and reducing wastage.
+  - [Bunce](https://betalifehealth.com/) - A SaaS platform using AI to drive customer engagement and automate payment processes for African businesses, enabling smarter messaging, personalized campaigns, and better retention across channels like email, SMS, and WhatsApp.
+  - [Intron Health](https://speech.intron.health/login) - Provides AI-powered clinical speech recognition tailored to African accents, supporting doctors with faster, accurate documentation and improving the efficiency of Electronic Health Records in hospitals.
+  - [Lendsqr](https://lendsqr.com/nigeria) - A fintech startup using AI for advanced loan management and credit decisioning. Its loan origination platform leverages voice and video analysis to assess borrowers, improving access to credit for the underserved.
+  - [DRO Health](https://drohealth.com/) - An AI-driven telemedicine platform connecting patients with certified doctors remotely and providing digital health management, appointment scheduling, and AI-based triage tools.
+  - [E-doc Online](https://e-doconline.co.uk/home) - Offers an AI-powered compliance and credit intelligence solution, using real-time banking data to streamline onboarding and automate lending decisions for financial institutions.
+  - [GoNomad](https://gonomadhq.com/) - Helps freelancers and businesses in Africa use AI to automate business registration and receive payments internationally, bridging gaps for cross-border entrepreneurship
+  - [Middleman](https://www.midddleman.co/) - AI-enhanced sourcing and payments platform, streamlining and automating imports from China for African businesses with intelligent supply chain optimization.
+  - [Myltura](https://myitura.com/) - Digital health platform using AI to provide remote healthcare, diagnostic access, and integrated data services, supporting patients and providers with timely, personalized insights.
+  - [Pastel](https://www.pastel.africa/) - Delivers AI fraud detection and enterprise-grade automation solutions for banks and fintechs, improving security and transaction monitoring.
+  - [Scandium](https://getscandium.com/) - Specializes in AI-powered quality assurance for software teams, automating bug detection and accelerating product releases.
+  - [Interactif AI](https://www.interactif.ai/) - Builds conversational AI and chatbot solutions for enterprises, leveraging natural language processing for customer engagement and automation. 
+  - [Curacel](https://www.curacel.co/) - Integrates AI to automate insurance claims processing, expense validation, and fraud detection, serving healthcare insurers and financial institutions.
+  - [Richly AI Limited](https://richlyai.com/) - Applies machine learning to predictive analytics, process automation, and business intelligence for corporate clients in Nigeria.
+  - [AwaDoc](https://www.awadoc.com/) - AI-powered platform facilitating remote medical consultations and healthcare advice through conversational bots, increasing healthcare accessibility.
+  - [SeamlessHR](https://seamlesshr.com/) - Leverages AI for HR functions such as candidate screening, performance management, and workforce analytics, optimizing recruitment and employee development.
+  - [CapitalSage](https://www.capitalsage.ng/) - Embeds AI into digital banking solutions for credit scoring, personalized customer recommendations, and fraud detection, especially for underserved populations
+  - [XaraAI](https://usexara.ai/) - Personal AI-powered financial assistant that helps individuals and small businesses manage finances, track spending, gain insights, and make smarter financial decisions using intelligent automation.
+
+
+* ### **AI Learning Content Developed By Nigerians**
+  - [Richly AI](https://learn.richlyai.com/?utm_source=chatgpt.com)
+  - [MacroTutor](https://techcabal.com/2022/08/29/macrotutor-dsn-unveils-ai-powered-on-demand-education-platform-to-prepare-students-for-future-of-work/)
+  - [AI in Hausa](https://youtube.com/playlist?list=PL0mGkrTWmp4uDzOE1Map6F0776khmdlUg&si=BxFsEU3w3dImd24v)
+  - [Artifical Intelligence and Digital Technologies Simplified  in Yoruba](https://youtube.com/playlist?list=PL0mGkrTWmp4tEOEwt4gz0o3jpZyRHuHUA&si=0ZoWSFpvEuWYl4o7)
 
 ## Sectorial Applications
 
@@ -227,8 +236,10 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
      - [2025 DSNAI Bootcamp](https://datasciencenigeria.org/2025_aibootcamp/)  
      - [Generative AI Fellowship 2025 for Young Nigerians](https://opportunitydesk.org/2025/07/07/gen-ai-fellowship-2025/)  
      - [3MTT and DeepTech Ready Upskilling](https://3mtt.nitda.gov.ng/)  
-     - [Nigerian AI Collective for civil society workshop](https://thecjid.org/call-for-applications-ai-for-civil-society-workshop/)  
-     - [Nigerian AI Collective AI in media Education](https://mediacareerng.org/cjid-trains-media-scholars-on-ai-for-teaching-practice/)  
+     - [Nigerian AI Collective for civil society workshop](https://thecjid.org/call-for-applications-ai-for-civil-society-workshop/)
+     - [The Federal Ministry of Education launched Inspire for Students and Ignite for Teachers](https://fmino.gov.ng/nigeria-embraces-ai-driven-education-on-international-day-of-education/)
+     - [Nigerian AI Collective AI in media Education](https://mediacareerng.org/cjid-trains-media-scholars-on-ai-for-teaching-practice/)
+     - [GMind AI, Teacher Registration Council of Nigeria (TRCN) partner on AI Education Platform for Nigerian Teachers](https://gmind.ai/home/)
   - AI in Media 
      - [Nigeria First AI TV Anchor](https://www.tvccommunications.tv/tvc-news-debuts-nigerias-first-ai-enabled-anchors-for-its-english-yoruba-hausa-igbo-and-pidgin-bulletins/)  
      - [Pulse Nigeria AI Powered Reporter](https://pulse.africa/katharina-link-pulse-ceo-at-the-inma-global-ceo-panel/)  
@@ -366,7 +377,6 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [YarnGPT](https://www.yarngpt.co/)
   - [Awa Doc](https://www.awadoc.com/)
   - [Ubenwa (Nanni AI)](https://www.ubenwa.ai/)
-  - 
 
 
 ## Awards
@@ -381,6 +391,21 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   -  [AI Collective Industry Event](https://www.youtube.com/watch?v=knDnL-sPZQA)
   -  [NUC Introduces Artificial Intelligence, Nuclear Engineering Among 13 New Courses For Nigerian Universities ](https://www.arise.tv/nuc-introduces-artificial-intelligence-nuclear-engineering-among-13-new-courses-for-nigerian-universities/)
   -  [Nigeria announced establishment of its Its First National AI Centre of Excellence at the University of Jos](https://www.premiumtimesng.com/news/top-news/848128-fg-to-launch-first-national-ai-centre-of-excellence.html)
+ 
+  *### **Local Awards**
+  - [FUTA DSN AI School of the Year 2025 @ DSN AI Bootcamp 2025](https://www.vanguardngr.com/2025/11/ai-bootcamp-data-science-nigeria-empowers-africas-young-innovators/)
+  - [NCS National Information Technology Merit Awards (NITMA) 2025 Awardees](https://www.thisdaylive.com/2025/11/27/recognising-drivers-of-nigerias-digital-economy/)
+  - [OAU wins Best Institutional AI Policy in Higher Education Award, 2025 AI Awareness Day](https://oauife.edu.ng/oau-clinches-top-spot-in-ai-policy-excellence-wins-award/)
+  - [Thomas Adewumi University wins Best AI Programme Award in Nigeria, 2025 AI Awareness Day](https://www.tau.edu.ng/news-page.php?i=286&a=thomas-adewumi-university-wins-best-ai-programme-award-in-nigeria)
+  - [Curacel, and others win big at NITDA Supernova Challenge at GITEX Nigeria](https://gitexnigeria.ng/nigerian-entrepreneurs-are-the-architects-of-the-digital-future-says-lagos-state-deputy-governor-as-gitex-nigeria-champions-national-regional-startup-ecosystems)
+  - [Nigerian students clinch prizes at Huawei ICT Competition 2024-2025 Global Final in China](https://www.thisdaylive.com/2025/05/29/nigerias-stellar-performance-at-huawei-ict-competition/)
+  - [Nigerian girls, Team Appsolute win in the Beginner Division at the Technovation Global Summit 2025](https://thenationonlineng.net/nigerian-girls-beat-japan-canada-spain-to-win-global-tech-grand-prize/)
+  - [Two Nigerian scientists, Adesola Adegoke and Seunnla Adelusi, among 20 global winners of the 2025 Digital GreenTalents Award in Germany](https://www.premiumtimesng.com/news/more-news/839699-two-nigerian-scientists-18-others-win-german-science-award.html)
+  - [Otuu Obinna Ogbonnia, emerged as the Best Paper Award winner at the ACM SIGCHI 2025 conference held in Yokohama, Japan](https://www.vanguardngr.com/2025/05/japan-mission-celebrates-obinna-ogbonnias-acm-sigchi-award-win/#:~:text=Obinna%20for%20winning%20the%20prestigious%20Best%20Paper,Computer%20Science%20at%20Swansea%20University%2C%20United%20Kingdom.)
+  -  [Imagier founded by UK-based Nigerian Salam Lawal awarded Best AI-Powered Visual Content Platform at Midlands Enterprise Awards 2025](https://guardian.ng/business-services/nigerian-techpreneurs-tech-platform-wins-enterprise-award/)
+  -  [21 Nigerian female founders among the top 120 finalists in the 2025 Aurora Tech Award 2025](https://www.thisdaylive.com/2025/01/08/nigeria-takes-the-lead-aurora-tech-award-2025-unveils-top-120-female-founders/#:~:text=The%20Aurora%20Tech%20Award%2C%20an,innovative%20businesses%20in%20emerging%20markets.)
+  -   [Two DSN Community won Community Challenge and Presentation at the Deep Learning Indaba 2025](https://www.facebook.com/watch/?v=1302882178290969)
+  -   
 
 
 ## Accepted AI Papers in Conferences
