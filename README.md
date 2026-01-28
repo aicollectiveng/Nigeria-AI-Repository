@@ -14,7 +14,7 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
   - [Access Guide](#access-guide)
     - [Who is this for?](#who-is-this-for)
     - [How to use this repository](#how-to-use-this-repository)
-- [Nigeria AI Collective Learning Series](#nigeria-ai-collective-learning-series)
+- [Nigeria AI Collective Executive Leadership Learning Series](#nigeria-ai-collective-learning-series)
   - [AI Collective Learning Series](#ai-collective-learning-series)
 - [Nigeria AI Portfolio and Government Involvement](#nigeria-ai-portfolio-and-government-involvement)
   - [Governmental bodies Involvement](#governmental-bodies-involvement)
