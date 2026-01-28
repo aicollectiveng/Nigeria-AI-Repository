@@ -143,7 +143,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Africa’s First Neutral Multi-Tenant AI Factory (BCN × Zadara × Touchnet)](https://bcnnigeria.net/index.php/africa-s-first-neutral-ai-factory-debuts-in-nigeria-through-bcn-zadara-collaboration/)
   - [Strategic Stakeholder Learning Immersion in Singapore](https://www.linkedin.com/posts/dsnai_iclr2025-datasciencenigeria-aifornigeria-activity-7326588955150196736-wDwM/)
   - [Meta partners with RAIN to empower Nigerian AI developers](https://www.linkedin.com/posts/robotics-artificial-intelligence-nigeria-rain_agenticaicertification-metaaideveloperacademy-activity-7392679127029534720-Wyrn)
-  - [UNESCO RAM](https://www.ungm.org/Public/Notice/266488)
+  
     
 * ### **Tools & Platforms** 
   - [AfroSLM](https://afroslm.equalyz.ai/) - Developed by EqualyzAI, AfroSLM is a small language model designed for African languages, with a financial focus for Yoruba and also supporting general reasoning in Nigerian indigenous languages. It enables AI-powered translation and language understanding, helping to digitize and preserve local languages.
@@ -161,11 +161,11 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Wazobia Translator](https://wazobia-translator.soft112.com/#:~:text=Wazobia%20Translator%20is%20a%20simple,%2C%20Igbo%20to%20Hausa%2C%20etc.) - An open-source chatbot and translator available on GitHub, Wazobia can translate between English and Nigeria’s three top languages: Hausa, Igbo, and Yoruba. Designed as a tool for developers and language learners.
   - [Nigeria Learning Passport](https://nlp.education.gov.ng/) - A government and UNICEF initiative, it is an e-learning and language platform supporting core Nigerian languages. It provides online and offline language lessons and digital education resources, aiming for inclusivity and accessibility for all children.
   
-* ### **AI Infrastructure** 
-- [EqualyzAI GPU4Good provides on-demand access to high-performance compute for projects that advance inclusive, ethical, and socially beneficial AI. From building models in low-resourced languages to developing fairer, culturally aware evaluation systems, we’re enabling the next generation of African AI breakthroughs.](https://equalyz.ai/gpu4good/)
-- [Schneider Electric Announces New AI Infrastructure Framework to Support Nigeria’s Growing Digital Economy](https://techpoint.africa/brandpress/schneider-electric-announces-new-ai-infrastructure-framework-to-support-nigerias-growing-digital-economy/)
-- [Data Centers started in 2025](https://newsroom.equinix.com/2025-11-10-Equinix-Announces-Plans-for-New-22-Million-Data-Center-in-Lagos,-Nigeria)  
-- [Airtel AI-powered Data Centre set to go live in 2026](https://techcabal.com/2025/08/06/airtel-bets-on-ai-with-120-million-data-centre-set-to-go-live-in-2026/)
+* ### **AI Infrastructure**
+  - [EqualyzAI GPU4Good provides on-demand access to high-performance compute for projects that advance inclusive, ethical, and socially beneficial AI.](https://equalyz.ai/gpu4good/)
+  - [Schneider Electric Announces New AI Infrastructure Framework to Support Nigeria’s Growing Digital Economy](https://techpoint.africa/brandpress/schneider-electric-announces-new-ai-infrastructure-framework-to-support-nigerias-growing-digital-economy/)
+  - [Data Centers started in 2025](https://newsroom.equinix.com/2025-11-10-Equinix-Announces-Plans-for-New-22-Million-Data-Center-in-Lagos,-Nigeria)  
+  - [Airtel AI-powered Data Centre set to go live in 2026](https://techcabal.com/2025/08/06/airtel-bets-on-ai-with-120-million-data-centre-set-to-go-live-in-2026/)
 
 * ### **Published Papers by Nigerian Researchers** 
   - [AI in Nigeria – Opportunities, challenges and strategic pathways](https://www.lbs.edu.ng/wp-content/uploads/2025/05/ai-in-nigeria-whitepaper.pdf)
@@ -193,12 +193,11 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Ubenwa (Nanni AI)](https://www.ubenwa.ai/) — AI platform for cry interpretation of Newborns.
   - [CyberAgric](https://cyberagric.com/) — AI-powered mobile app that diagnoses crop diseases through image analysis and provides tailored treatment recommendations.
   - [Awarri](https://www.awarri.com/) — Awarri is building an inclusive AI infrastructure that supports Nigeria’s local creator and developer ecosystem. 
-  - [SpotOn](https://play.google.com/store/apps/details?id=com.app.spoton&hl=en&pli=1) — SpotOn is an innovative AI-driven platform designed to discover, create, and optimize opportunities for individuals and businesses of all sizes.
   - [RetailLoop](https://www.retailloop.co/) — an AI-powered platform designed to optimize commerce for enterprises across global markets. 
   - [NebulaPay](https://www.nebulapay.com/) — an AI-powered conversational payment platform designed to simplify recurring transactions in their local languages.
   - [Tensflare](https://tensflare.com/) — Tensflare offers a suite of AI-powered solutions designed to streamline business operations, particularly in contract management, legal workflows, and team collaboration.
   - [ELZAI](https://www.elzai.com/) — ElizaAI is an innovative AI-driven platform designed to revolutionize the way we interact with technology by bridging the gap between human memory and AI.
-  - [HeliumOS](https://heliumhealth.com/helium-os/) — Helium Health is leveraging AI to streamline hospital operations, enhance patient care, and improve medical decision-making.
+  - [Helium Health](https://heliumhealth.com/) — Helium Health is leveraging AI to streamline hospital operations, enhance patient care, and improve medical decision-making.
   - [Unbabel](https://unbabel.com/) — This platform integrates machine translation with human editing to ensure high-quality translations that are contextually appropriate.
   - [BetaLife Health](https://betalifehealth.com/) — An AI-powered platform enhancing blood supply management for hospitals. It integrates real-time data analytics to predict blood demand, optimize logistics, and connects donors to recipients, improving patient outcomes and reducing wastage.
   - [Bunce](https://betalifehealth.com/) — A SaaS platform using AI to drive customer engagement and automate payment processes for African businesses, enabling smarter messaging, personalized campaigns, and better retention across channels like email, SMS, and WhatsApp.
@@ -223,24 +222,24 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
 ## Sectorial Applications
 
 *  ### **Sectoral AI Adoptions**  
-  - Education, Talent and Workforce Development -
+  - Education, Talent and Workforce Development 
      - [AI Collective Executive Learning Series](https://www.youtube.com/watch?v=c2BFNizBs0I&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt)
      - [2025 DSNAI Bootcamp](https://datasciencenigeria.org/2025_aibootcamp/)  
      - [Generative AI Fellowship 2025 for Young Nigerians](https://opportunitydesk.org/2025/07/07/gen-ai-fellowship-2025/)  
      - [3MTT and DeepTech Ready Upskilling](https://3mtt.nitda.gov.ng/)  
      - [Nigerian AI Collective for civil society workshop](https://thecjid.org/call-for-applications-ai-for-civil-society-workshop/)  
      - [Nigerian AI Collective AI in media Education](https://mediacareerng.org/cjid-trains-media-scholars-on-ai-for-teaching-practice/)  
-  - AI in Media -
+  - AI in Media 
      - [Nigeria First AI TV Anchor](https://www.tvccommunications.tv/tvc-news-debuts-nigerias-first-ai-enabled-anchors-for-its-english-yoruba-hausa-igbo-and-pidgin-bulletins/)  
      - [Pulse Nigeria AI Powered Reporter](https://pulse.africa/katharina-link-pulse-ceo-at-the-inma-global-ceo-panel/)  
      - [Telecommunication Chatbot](https://omedinewsnetwork.org/ai-and-the-nigerian-media-a-new-era-of-journalism/)
-  - AI in Health -
+  - AI in Health 
      - [Family Planning Chatbot (Data Science Nigeria, DKT, Tulane University)](https://deepdive.nigeriahealthwatch.com/powering-a-better-future/)  
      - [Kem - A Health Coach Chatbot](https://www.instagram.com/reel/DN0bWUFXHoQ/)
-  - AI in Agriculture -
+  - AI in Agriculture 
      - [FG unveils AI platform to link farmers to researcher](https://guardian.ng/news/fg-unveils-ai-platform-to-link-farmers-to-researchers/)
      - [FarmCrowdy AI](https://www.gaif.ai/blogs/N33-farmcrowdy-ai-powered-farming-nigeria)
-  - AI in Financial Services -
+  - AI in Financial Services 
      - [Moniepoint Inc. launches “M”, Nigeria’s first AI-powered chatbot for informal economy](https://guardian.ng/business-services/firm-launches-nigerias-first-ai-chatbot-for-informal-economy/) 
 
 
@@ -261,7 +260,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
 
 ## Ecosystem Activities and Events
 
-* ### **Events** – Past physical conferences & roundtables:  
+* ### **Events**  
   - [Smarter Health, Stronger Systems: Uniting AI and Human Capital for Scalable Community Health Impact Webinar](https://youtu.be/6CddcfM4amc?si=1-5JiIPLwgbc4yZk)
   - [AI Collective Industry Event](https://www.youtube.com/watch?v=knDnL-sPZQA)
   - [2025 DataFest Africa Convey 3000+ participants](https://www.datacommunityafrica.org/datafestafrica/)
@@ -292,7 +291,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
 
 ## Data & Open-Source Assets
 
-* ### **Datasets** – A curated list of datasets supporting various African languages:
+* ### **Datasets**
   - [NaijaVoices](https://lanfrica.com/) – Igbo, Hausa, Yoruba
   - [Kanuri TTS and ASR Models(Translators Without Borders)](https://huggingface.co/datasets/CLEAR-Global/TWB-voice-TTS-Kanuri-1.0-sampleset)
   - [TANZIL Dataset](https://tanzil.net/trans/) – Amharic, Hausa, Somali, Swahili, and others
@@ -359,7 +358,15 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
 ## Innovation
 
 * ### **[Innovation Highlights]()** 
-  - [DKT Chatbot](https://www.linkedin.com/posts/dkt-nigeria_honeyai-familyplanningmadeeasy-informedchoices-activity-7272201445251198977-3INq/)  
+  - [DKT Chatbot](https://wa.me/2349097133400)
+  - [SpotOn](https://play.google.com/store/apps/details?id=com.app.spoton&hl=en&pli=1)
+  - [CommTB](https://commtb.instratghs.com/)
+  - [Biskit](https://ehealthafrica.org/solutions/biskit/)
+  - [Kem AI](https://www.gatesfoundation.org/ideas/articles/nneka-mobisson-mdoc-healthcare)
+  - [YarnGPT](https://www.yarngpt.co/)
+  - [Awa Doc](https://www.awadoc.com/)
+  - [Ubenwa (Nanni AI)](https://www.ubenwa.ai/)
+  - 
 
 
 ## Awards
@@ -378,7 +385,6 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
 
 ## Accepted AI Papers in Conferences
 
-**Conference Papers**  
   - ### [NeurIPS](https://proceedings.neurips.cc/)  
     - [Women in AI Spotlight](https://www.linkedin.com/posts/women-in-ai-nigeria_spotlight-misturah-alaran-innovating-activity-7406260815542108160-G1eS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiM5boBU9nVr4TqW0ygTK5T5Qa8GhSm8Oo)  
     - [Women in AI Spotlight II](https://www.linkedin.com/posts/women-in-ai-nigeria_spotlight-oluwaseyi-afe-phd-advancing-activity-7406257908784603136-xjwC/)  
