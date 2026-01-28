@@ -38,7 +38,8 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 - [Innovation](#innovation)
   - [Innovation Highlights](#innovation-highlights)
 - [Awards](#awards)
-  - [Major National Achievement and Recognitions](#major-national-achievement-and-recognitions)
+  - [Major National Achievement and Recognitions](#major-national-achievement-and-recognitions)\
+  - [Local Awards](#local-awards)
 - [Accepted AI Papers in Conferences](#accepted-ai-papers-in-conferences)
   - [NeurIPS](#neurips)
   - [ICLR](#iclr)
@@ -192,7 +193,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
 * ### **Directory of AI Startups** 
   - [EqualyzAI](https://equalyz.ai/) - Works with native speakers to collect rich, hyperlocal data—driving AI forward and creating real economic value for African communities.
   - [MasakhaNER](https://www.masakhane.io/) - Masakhane welcomes everyone, no matter their NLP experience, fostering inclusiveness and knowledge sharing.
-  - [AfriHate](https://github.com/AfriHate/AfriHate) — Hate and Offensive Speech Detection for African Languages. 
+  - [AfriHate](https://github.com/AfriHate/AfriHate) - Hate and Offensive Speech Detection for African Languages. 
   - [Ubenwa (Nanni AI)](https://www.ubenwa.ai/) - AI platform for cry interpretation of Newborns.
   - [CyberAgric](https://cyberagric.com/) - AI-powered mobile app that diagnoses crop diseases through image analysis and provides tailored treatment recommendations.
   - [Awarri](https://www.awarri.com/) - Awarri is building an inclusive AI infrastructure that supports Nigeria’s local creator and developer ecosystem. 
@@ -392,7 +393,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   -  [NUC Introduces Artificial Intelligence, Nuclear Engineering Among 13 New Courses For Nigerian Universities ](https://www.arise.tv/nuc-introduces-artificial-intelligence-nuclear-engineering-among-13-new-courses-for-nigerian-universities/)
   -  [Nigeria announced establishment of its Its First National AI Centre of Excellence at the University of Jos](https://www.premiumtimesng.com/news/top-news/848128-fg-to-launch-first-national-ai-centre-of-excellence.html)
  
-  *### **Local Awards**
+* ### **Local Awards**
   - [FUTA DSN AI School of the Year 2025 @ DSN AI Bootcamp 2025](https://www.vanguardngr.com/2025/11/ai-bootcamp-data-science-nigeria-empowers-africas-young-innovators/)
   - [NCS National Information Technology Merit Awards (NITMA) 2025 Awardees](https://www.thisdaylive.com/2025/11/27/recognising-drivers-of-nigerias-digital-economy/)
   - [OAU wins Best Institutional AI Policy in Higher Education Award, 2025 AI Awareness Day](https://oauife.edu.ng/oau-clinches-top-spot-in-ai-policy-excellence-wins-award/)
@@ -405,7 +406,6 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   -  [Imagier founded by UK-based Nigerian Salam Lawal awarded Best AI-Powered Visual Content Platform at Midlands Enterprise Awards 2025](https://guardian.ng/business-services/nigerian-techpreneurs-tech-platform-wins-enterprise-award/)
   -  [21 Nigerian female founders among the top 120 finalists in the 2025 Aurora Tech Award 2025](https://www.thisdaylive.com/2025/01/08/nigeria-takes-the-lead-aurora-tech-award-2025-unveils-top-120-female-founders/#:~:text=The%20Aurora%20Tech%20Award%2C%20an,innovative%20businesses%20in%20emerging%20markets.)
   -   [Two DSN Community won Community Challenge and Presentation at the Deep Learning Indaba 2025](https://www.facebook.com/watch/?v=1302882178290969)
-  -   
 
 
 ## Accepted AI Papers in Conferences
