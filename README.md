@@ -15,7 +15,6 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
     - [Who is this for?](#who-is-this-for)
     - [How to use this repository](#how-to-use-this-repository)
 - [Nigeria AI Collective Executive Leadership Learning Series](#nigeria-ai-collective-learning-series)
-  - [AI Collective Learning Series](#ai-collective-learning-series)
 - [Nigeria AI Portfolio and Government Involvement](#nigeria-ai-portfolio-and-government-involvement)
   - [Governmental bodies Involvement](#governmental-bodies-involvement)
   - [Activities of the Federal Minister of Communications, Innovation and Digital Economy, Dr. Bosun Tijani](#activites-of-the-federal-minister-of-communications-innovation-and-digital-economy-dr-bosun-tijani)
