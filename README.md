@@ -45,6 +45,7 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
   - [ICLR](#iclr)
   - [ACL](#acl)
   - [Deep Learning Indaba](#deep-learning-indaba)
+  - [EACL 2026 / AfricaNLP 2026](#eacl-2026--africanlp-2026)
 - [Community Platforms](community-platforms)
   - [Visit our Social Media Pages](#visit-our-social-media-pages)
 - [Contributors](#contributors)
@@ -122,6 +123,12 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Service-Wise GPT for public-service process automation](https://ohcsf.gov.ng/2025/03/18/nigeria-unveils-ai-driven-public-service-transformation-at-global-government-summit-2025/)
   - [UNESCO RAM context-specific policy recommendations that can guide sustainable AI adoption in the country.](https://www.linkedin.com/posts/dsnai_datasciencenigeria-aireadiness-responsibleai-activity-7330556314839928832-9kGD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiM5boBU9nVr4TqW0ygTK5T5Qa8GhSm8Oo)
   - [Activites of the Federal Minister of Communications, Innovation and Digital Economy, Dr. Bosun Tijani](https://youtu.be/aNnOeT2Rg30)
+  - [UNESCO Nigeria AI Readiness Assessment (RAM) Report](https://unesdoc.unesco.org/ark:/48223/pf0000398538) - Launched in Abuja on 22 June 2026 by UNESCO, the EU and the Federal Ministry of Communications, Innovation & Digital Economy; the first comprehensive assessment of Nigeria's readiness to develop, deploy and regulate AI across infrastructure, data, policy, research and institutional capacity. ([launch coverage](https://nannews.ng/unesco-presents-ai-report-to-strengthen-ethical-use/))
+  - [National Digital Economy and E-Governance Bill](https://iafrica.com/nigeria-moves-to-approve-landmark-law-regulating-artificial-intelligence/) - A risk-based AI regulatory framework naming NITDA as the central "super-regulator," with mandatory audits and licensing for high-risk systems in finance, public administration and surveillance; expected to make Nigeria one of the first African countries with binding AI legislation.
+  - [National AI Strategy at 2 — Impact Story](https://bit.ly/NAIS-2_Report) - Two-year ecosystem review documenting 700,000+ Nigerians reached through AI skills, $1.85bn in AI-related investment commitments, 120+ active AI startups (3.4x growth), and the launch of N-ATLAS, Africa's first government-backed multimodal, multilingual LLM.
+  - [REST-AI Governance Framework](https://leadership.ng/africa-unveils-ai-governance-framework-asserts-digital-sovereignty-2/) - A continental AI governance framework unveiled at Tech Symposium Africa 2026 in Abuja on 30 April 2026; built on five pillars and 143 action points and designed for African realities rather than adapted from abroad. The working draft was released for public consultation by Dr Nasir Yammama, Senior Special Assistant to the President on Innovation.
+  - [Nigeria Digital Sovereignty and Fair Data Compensation Bill 2025](https://iapp.org/news/a/nigeria-moves-toward-comprehensive-ai-regulation) - A proposed bill targeting the extraction and monetisation of Nigerian data by foreign companies; includes data-localisation requirements, a "local content" rule that a share of AI research on Nigerian data be conducted in-country, and the principle that Nigerians be compensated when their data trains AI models.
+  - [National Artificial Intelligence Commission (Establishment) Bill](https://iapp.org/news/a/nigeria-moves-toward-comprehensive-ai-regulation) - A separate bill proposing a dedicated National AI Commission to oversee AI development in Nigeria, part of the wider 2025–2026 legislative push around AI governance.
 
 * ### **Public & NGO-Led Initiatives** 
   - [Nigeria AI Scaling Hub](https://fmcide.gov.ng/nigeria-launches-ai-scaling-hub-in-collaboration-with-gates-foundation-to-accelerate-impact-in-health-education-and-agriculture/) - A multi-stakeholder initiative by the Federal Ministry of Communications, Innovation & Digital Economy and the Gates Foundation. It accelerates scaling of impactful AI solutions in health, education, and agriculture, supporting innovators with resources and mentorship.
@@ -136,6 +143,12 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Nigeria National AI Trust](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - The world's first government-backed trust dedicated to AI, designed to mobilize resources, guide development, and ensure ethical oversight of AI’s national impact.
   - [Digital Inclusion and Universal Communication Access Project](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - Federal initiative expanding broadband and digital infrastructure to unserved and underserved areas, laying essential groundwork for equitable AI access and innovation.
   - [Data Science Nigeria's Arewa Ladies for Tech](https://datasciencenigeria.org/arewa/) - An initiative empowering young women in Northern Nigeria with digital skills, mentorship, and opportunities in technology and data science.
+  - [Nigeria AI Scaling Hub (NAISH) — Official Launch & SAID Challenge](https://punchng.com/fg-unveils-ai-scaling-hub-7-5m-fund-for-public-sector-innovation/) - Formally inaugurated on 26 June 2026 with a $7.5m, three-year Gates Foundation commitment. Hosted by Lagos Business School, Pan-Atlantic University, it provides local AI compute and pairs mature Nigerian AI solutions with government agencies through the Scaling AI for Development (SAID) Challenge (apply: naish.lbs.edu.ng).
+  - [Nigeria AI Collective — Open GPU Compute Access Program](https://bit.ly/AIComputeSupport) - The Collective's own program offering researchers, startups and AI communities access to GPU compute, model-training support, fine-tuning assistance and mentorship, with the opportunity to showcase work at the AI Summit in October 2026.
+  - [CJID AI Advocacy Project & AI Community of Practice](https://thecjid.org/call-for-applications-ai-for-civil-society-workshop/) - A Centre for Journalism Innovation and Development (CJID) initiative under the Collective's CSOs Community of Practice, advancing public understanding of AI and inclusion of women, youth, rural communities and persons with disabilities in AI conversations.
+  - [FactCheckAfrica Digital Democracy Suite](https://iafrica.com/) - Launched 7 May 2026: civic AI tools comprising KedereAI (a plain-language government accountability platform), GovQuest (scenario-based civic games) and The Power Deck (offline civic flashcards), built ahead of Nigeria's 2027 elections with support from the Ford and MacArthur Foundations.
+  - [AI University Innovation Pod (UniPod) at UNILAG](https://www.undp.org/nigeria/press-releases/nigeria-flags-ai-unipod-university-lagos-nationwide-unipod-rollout-begins) - Flagged off 7 April 2026 by VP Kashim Shettima; a Federal Government–UNDP–TETFund partnership turning universities into AI production and enterprise hubs, with eight universities in the first cohort and plans to scale to 50+ nationwide.
+  - [Renewed Hope–NITDA Innovation Hub at OAU](https://oauife.edu.ng/) - Commissioned 8 June 2026 at Obafemi Awolowo University, Ile-Ife; houses labs for AI, robotics, additive manufacturing and IoT, joining University of Nigeria Nsukka and Ahmadu Bello University as federally backed university innovation hubs.
    
  
 * ###  Global Collaboration Partnerships
@@ -147,6 +160,12 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Africa’s First Neutral Multi-Tenant AI Factory (BCN × Zadara × Touchnet)](https://bcnnigeria.net/index.php/africa-s-first-neutral-ai-factory-debuts-in-nigeria-through-bcn-zadara-collaboration/)
   - [Strategic Stakeholder Learning Immersion in Singapore](https://www.linkedin.com/posts/dsnai_iclr2025-datasciencenigeria-aifornigeria-activity-7326588955150196736-wDwM/)
   - [Meta partners with RAIN to empower Nigerian AI developers](https://www.linkedin.com/posts/robotics-artificial-intelligence-nigeria-rain_agenticaicertification-metaaideveloperacademy-activity-7392679127029534720-Wyrn)
+  - [Nigeria National AI Trust — Vision Launched in London](https://guardian.ng/news/bosun-tijani-launches-nigerias-ai-trust-vision-in-london/) - Unveiled 19 June 2026 at Warwick Business School, London, and already approved by the Federal Executive Council; described as the first institution of its kind in the world, designed as a body of trustees to steer ethical AI investment beyond political cycles. Organised with Co-Creation Hub and the MacArthur Foundation.
+  - [Anthropic × Gates Foundation — $200m AI Commitment](https://www.anthropic.com/news) - Announced 14 May 2026: grant funding, Claude usage credits and technical support for health, education and agriculture; African-language and smallholder-agriculture datasets built under the programme will be released as public goods for governments, researchers and developers.
+  - [Bluechip Technologies Joins Anthropic's Claude Partner Network & Acquires YarnGPT](https://nairametrics.com/2026/06/12/bluechip-technologies-acquires-yarngpt-nigerian-text-to-speech-ai-built-for-local-languages/) - In June 2026 Bluechip joined Anthropic's vetted Claude Partner Network and acquired YarnGPT, the Nigerian text-to-speech startup (Yoruba, Igbo, Hausa, Nigerian-accented English) — a rare case of a hackathon project maturing into an acquisition.
+  - [NITDA × Wigwe University AI Partnership](https://techafricanews.com/) - A strategic collaboration on locally driven AI covering research, agriculture (livestock, land-use and food systems), healthcare diagnostics, digital literacy and curriculum development.
+  - [InnoPower Africa × Luma Learn AI — One Million Learners](https://innopower.africa/) - A 10 April 2026 partnership using a train-the-trainer model to expand AI tools and education to one million learners, students, teachers, families and MSMEs across the ECOWAS sub-region.
+  - [Google.org — $2.1m (₦3bn) for Nigeria's AI Future](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/partnering-for-nigerias-ai-powered-future/) - Announced late 2025 in support of the National AI Strategy, channelled through five partners: FATE Foundation with AIMS (embedding advanced AI curricula into universities), the African Technology Forum (an AI innovation challenge), and JA Africa and the CyberSafe Foundation (digital safety and public-institution cybersecurity).
   
     
 * ### **Tools & Platforms** 
@@ -170,6 +189,9 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Schneider Electric Announces New AI Infrastructure Framework to Support Nigeria’s Growing Digital Economy](https://techpoint.africa/brandpress/schneider-electric-announces-new-ai-infrastructure-framework-to-support-nigerias-growing-digital-economy/)
   - [Data Centers started in 2025](https://newsroom.equinix.com/2025-11-10-Equinix-Announces-Plans-for-New-22-Million-Data-Center-in-Lagos,-Nigeria)  
   - [Airtel AI-powered Data Centre set to go live in 2026](https://techcabal.com/2025/08/06/airtel-bets-on-ai-with-120-million-data-centre-set-to-go-live-in-2026/)
+  - [Kasi Cloud LOS1 — West Africa's First Hyperscale AI-Ready Data Centre](https://techafricanews.com/2026/05/28/kasi-cloud-datacenters-flags-off-west-africas-first-ai-ready-hyperscale-data-centre-in-lagos/) - Commissioned May 2026 in Lekki, Lagos; NSIA-backed, carrier-neutral, purpose-built for AI and designed to scale to ~100MW, offering a sovereign alternative to the ~$850m Nigeria spends annually on foreign cloud services.
+  - [MTN Distributed AI Compute Grid & New Nigeria AI Data Centre](https://iafrica.com/mtn-plans-to-turn-its-african-tower-network-into-a-distributed-ai-compute-grid/) - MTN plans to fit open GPU hardware at base-station towers for edge AI inference and confirmed two new AI-enabled data centres, one in Nigeria and one in South Africa, as part of a "sovereign AI" infrastructure push.
+  - [NAISH Local Compute — 8× NVIDIA H200 GPU Nodes](https://businessday.ng/news/article/fg-launches-ai-scaling-hub-unveils-7-5m-challenge-to-drive-ai-adoption-across-mdas/) - As part of the Nigeria AI Scaling Hub, eight NVIDIA H200 GPU compute nodes will be hosted at Galaxy Backbone's Tier III data centre in Abuja, with disaster-recovery support at its Tier IV facility in Kano.
 
 * ### **Published Papers by Nigerian Researchers** 
   - [AI in Nigeria – Opportunities, challenges and strategic pathways](https://www.lbs.edu.ng/wp-content/uploads/2025/05/ai-in-nigeria-whitepaper.pdf)
@@ -189,6 +211,18 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [AI-Powered Verification: Fighting Misinformation in Nigeria](https://abjournals.org/bjmcmr/papers/volume-5/issue-1/ai-powered-verification-fighting-misinformation-in-nigeria/)
   - [Artificial Intelligence: Opportunities, Issues and Applications in Banking, Accounting, and Auditing in Nigeria](https://journalajeba.com/index.php/AJEBA/article/view/241)
   - [Artificial Intelligence in Nigeria: Challenges and Opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5269530)
+  - [African Voices Nigeria: 2,500 Hours of Ethically Sourced Speech Data for Four Nigerian Languages](https://arxiv.org/abs/2604.16287) - Ife Adebara, Oluwaseun Nifemi et al. (AfricaNLP 2026 / EACL 2026, Rabat) — Best Paper; 2,500 hours of spontaneous speech from 2,800+ speakers across Hausa, Igbo, Yoruba and Nigerian Pidgin, built with informed consent and human-in-the-loop anonymisation.
+  - [AfriMTEB and AfriE5: Benchmarking and Adapting Text Embedding Models for African Languages](https://arxiv.org/abs/2510.23896) - Kosei Uemura, Miaoran Zhang, David Ifeoluwa Adelani (EACL 2026) — a 59-language, 14-task, 38-dataset embedding benchmark (incl. Hausa, Yoruba, Igbo) plus the purpose-built AfriE5 model.
+  - [AfroBench: How Good are Large Language Models on African Languages?](https://aclanthology.org/2025.findings-acl.976/) - Jessica Ojo, David Ifeoluwa Adelani et al. (Findings of ACL 2025) — evaluates LLMs across 64 African languages, 15 tasks and 22 datasets, confirming large English-vs-African performance gaps.
+  - [BRIGHTER: Bridging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://aclanthology.org/2025.acl-long.436/) - Shamsuddeen Hassan Muhammad et al. (ACL 2025, Best Resource Paper) — multi-labelled emotion datasets across 28 low-resource languages with substantial Nigerian (Hausa) annotation leadership.
+  - [Accent-Aware Text-to-Speech for Nigerian English: Building Inclusive Voice AI from Community-Curated Data](https://neurips.cc/virtual/2025/loc/sandiego/133733) - Christianah Oyewale, Benjamin Ogbonna (NeurIPS 2025, San Diego) — a Nigerian-accented English TTS system built on 4,000+ community-curated audio-text samples.
+  - [Improving BGE-M3 Multilingual Dense Embeddings for Nigerian Low-Resource Languages](https://arxiv.org/) - Abdulmatin Omotoso, Habeeb Shopeju, Adejumobi Monjolaoluwa Joshua, Shiloh Oni — contrastive fine-tuning of BGE-M3 for Yoruba, Igbo and Hausa search and retrieval.
+  - [Language Choice in Nigerian Social Media Hate Speech](https://aclanthology.org/) - Nneoma C. Udeze, Rob Voigt (AfricaNLP 2026 / EACL 2026) — the first systematic analysis of Nigerian Pidgin in online hate speech across Twitter and Instagram.
+  - [AfriCaption: Establishing a New Paradigm for Image Captioning in African Languages](https://aclanthology.org/) - Mardiyyah Oduwole et al. (AfricaNLP 2026 / EACL 2026) — a multilingual image-captioning framework and 0.5B-parameter model across 20 African languages incl. Hausa, Yoruba, Igbo.
+  - [Evaluating Yoruba Text-to-Speech Systems for Accessible Computer-Based Testing in Visually Impaired Learners](https://aclanthology.org/) - Kausar Yetunde Moshood et al. (AfricaNLP 2026 / EACL 2026) — evaluates Yoruba TTS for exam accessibility for visually impaired students.
+  - [Fiction As Framework: The Imagined World of AI and the Ensuing Realities](https://thecjid.org/) - Oluwapelumi Oginni (CJID) — a knowledge resource on how lessons from fiction can guide responsible, accountable and inclusive AI governance.
+  - [SAFARI: A Community-Engaged Approach and Dataset of Stereotype Resources in the Sub-Saharan African Context](https://aclanthology.org/2026.eacl-short.27/) - Verma et al. (EACL 2026, Rabat) — a multilingual stereotype dataset spanning Ghana, Kenya, Nigeria and South Africa across 15 languages (incl. Hausa, Igbo, Yoruba), used to measure how often leading AI models endorse sub-Saharan African stereotypes.
+  - [Ibom NLP: A Step Toward Inclusive NLP for Nigeria's Minority Languages](https://aclanthology.org/2025.ijcnlp-long.22/) - IJCNLP-AACL 2025 (Mumbai) — machine-translation and topic-classification resources for four Akwa Ibom minority languages (Anaang, Efik, Ibibio, Oro), showing cross-lingual transfer from a related language (Efik) sharply improves performance.
 
 * ### **Directory of AI Startups** 
   - [EqualyzAI](https://equalyz.ai/) - Works with native speakers to collect rich, hyperlocal data—driving AI forward and creating real economic value for African communities.
@@ -221,6 +255,8 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [SeamlessHR](https://seamlesshr.com/) - Leverages AI for HR functions such as candidate screening, performance management, and workforce analytics, optimizing recruitment and employee development.
   - [CapitalSage](https://www.capitalsage.ng/) - Embeds AI into digital banking solutions for credit scoring, personalized customer recommendations, and fraud detection, especially for underserved populations
   - [XaraAI](https://usexara.ai/) - Personal AI-powered financial assistant that helps individuals and small businesses manage finances, track spending, gain insights, and make smarter financial decisions using intelligent automation.
+  - [Decide](https://www.usedecide.com/) - AI spreadsheet agent founded by ex-Flutterwave engineer Abiodun Adetona; ranked 4th globally on SpreadsheetBench (82.5% accuracy) and serving 3,000+ users. It interprets spreadsheet structure, executes changes and explains them in plain language.
+  - [Udu Technologies (UduTech)](https://udu.africa/) - An AI partner helping governments, enterprises and large institutions translate AI ambitions into enterprise-grade and public-sector solutions; showcased at the India AI Impact Summit 2026.
 
 
 * ### **AI Learning Content Developed By Nigerians**
@@ -245,14 +281,22 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
      - [Nigeria First AI TV Anchor](https://www.tvccommunications.tv/tvc-news-debuts-nigerias-first-ai-enabled-anchors-for-its-english-yoruba-hausa-igbo-and-pidgin-bulletins/)  
      - [Pulse Nigeria AI Powered Reporter](https://pulse.africa/katharina-link-pulse-ceo-at-the-inma-global-ceo-panel/)  
      - [Telecommunication Chatbot](https://omedinewsnetwork.org/ai-and-the-nigerian-media-a-new-era-of-journalism/)
+     - [Dubawa.ai — AI Fact-Checking Chatbot (CJID)](https://dubawa.ai/) - Built by Dubawa, a project of the Centre for Journalism Innovation and Development (a Collective partner); a WhatsApp-accessible chatbot that verifies claims against real-time data to counter misinformation.
+  - [Nubia — AI for Data Journalism (Dataphyte)](https://www.dataphyte.com/) - An open-source AI tool that helps journalists analyse complex datasets and turn them into first-draft, data-driven stories for editors to refine.
   - AI in Health 
      - [Family Planning Chatbot (Data Science Nigeria, DKT, Tulane University)](https://deepdive.nigeriahealthwatch.com/powering-a-better-future/)  
      - [Kem - A Health Coach Chatbot](https://www.instagram.com/reel/DN0bWUFXHoQ/)
   - AI in Agriculture 
      - [FG unveils AI platform to link farmers to researcher](https://guardian.ng/news/fg-unveils-ai-platform-to-link-farmers-to-researchers/)
      - [FarmCrowdy AI](https://www.gaif.ai/blogs/N33-farmcrowdy-ai-powered-farming-nigeria)
+     - [NITDA–Wigwe University AI for agriculture and food systems](https://techafricanews.com/) - Applying AI to livestock management, land-use optimisation, food processing and productivity, anchored on NCAIR and the National Adopted Village for Smart Agriculture.
   - AI in Financial Services 
-     - [Moniepoint Inc. launches “M”, Nigeria’s first AI-powered chatbot for informal economy](https://guardian.ng/business-services/firm-launches-nigerias-first-ai-chatbot-for-informal-economy/) 
+     - [Moniepoint Inc. launches “M”, Nigeria’s first AI-powered chatbot for informal economy](https://guardian.ng/business-services/firm-launches-nigerias-first-ai-chatbot-for-informal-economy/)
+  - AI in Governance & Public Sector
+     - [Corporate Affairs Commission (CAC) processes ~10,000 business registrations daily via AI](https://businessday.ng/) - Following full AI deployment, CAC now runs an end-to-end 24/7 registry with an AI legal assistant and an AI-powered business-name generator, handling ~5,000 customer enquiries daily.
+     - [Service-Wise GPT — Public Service Transformation](https://ohcsf.gov.ng/2025/03/18/nigeria-unveils-ai-driven-public-service-transformation-at-global-government-summit-2025/) - AI-powered tools for public service delivery and citizen engagement.
+  - AI in Public Safety & Security
+     - [AI-enabled surveillance deployed to Plateau State (Jos)](https://punchng.com/) - Directed by President Tinubu in April 2026, a network of AI-powered cameras is being installed in Plateau State, extending systems already operational in Lagos and Enugu — alongside active governance and civil-liberties debate.
 
 
 * ### **Hackathons** 
@@ -299,6 +343,14 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Global AI Summit  Africa 2025](https://www.linkedin.com/pulse/pre-summit-note-global-ai-summit-africa-kigali-2025-dr-bosun-tijani-bpzke/)
   - [Deep Learning Indaba](https://deeplearningindaba.com/2025/)
   - [Global AI Summit in Africa 2025+](https://www.linkedin.com/pulse/pre-summit-note-global-ai-summit-africa-kigali-2025-dr-bosun-tijani-bpzke/)
+  - [India AI Impact Summit 2026 — Nigeria's Strategic Presence](https://iafrica.com/) - New Delhi; the Nigeria AI Collective hosted a Global Breakfast Meet-Up and a dedicated national pavilion at the AfricaAI Village, with EqualyzAI, mDoc and Udu Technologies showcasing solutions. The Summit produced the New Delhi Declaration backed by 88 countries.
+  - [Deep Learning Indaba 2026 — Lagos (Africa's premier AI gathering, first time in Nigeria)](https://deeplearningindaba.com/2026/) - Pan-Atlantic University, Lagos, 2–7 August 2026, themed "Sovereign Intelligence." A landmark moment for the Nigerian AI ecosystem.
+  - [AI Summit Nigeria 2026 — "From Policy to Progress"](https://techcabal.com/) - Abuja, 16 June 2026; organised by Microsoft, NITDA and MTN, focused on closing Nigeria's government data-interoperability gap.
+  - [Bluechip Data and AI Summit 3.0](https://nairametrics.com/2026/06/12/bluechip-technologies-acquires-yarngpt-nigerian-text-to-speech-ai-built-for-local-languages/) - Lagos, 10 June 2026; "The Future, Now" — venue of the YarnGPT acquisition announcement.
+  - [IndabaX Nigeria 2026](https://indabaxng.github.io/) - University of Ibadan, 11–14 May 2026; accepted papers published in PMLR Vol. 319 (Scopus/DBLP indexed).
+  - [GITEX Nigeria 2026](https://www.gitexnigeria.ng/) - Abuja and Lagos, 7–10 September 2026; Government Leadership & AI Summit plus Tech Expo and Startup Festival.
+  - [Digital Nigeria International Conference & Exhibition (DNICE) 2026](https://digitalnigeria.gov.ng/) - BATICC, Abuja, 11–13 August 2026; NITDA's flagship conference moving "from strategy to execution."
+  - [Africa Social Impact Summit (ASIS) 2026](https://sterlingonefoundation.org/) - Eko Convention Centre, Lagos, 22–23 July 2026; convened by Sterling One Foundation with the UN in Nigeria.
 
 
 ## Data & Open-Source Assets
@@ -343,7 +395,9 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [AfriSenti-SemEval Dataset](https://github.com/afrisenti-semeval/afrisent-semeval-2023) – 14 African Languages
   - [CHOWNET-V1 datasets](https://github.com/AISaturdaysLagos/CHOWNET) - Chownet: Nigerian Food Image Dataset
   - [ImageAI Open-source Computer Vision Library](https://github.com/OlafenwaMoses/ImageAI) - ImageAI: AI Computer Vision Library for Python
-  - [NaijaSenti](https://github.com/hausanlp/NaijaSenti) - Igbo, Hausa, Yoruba, Pidgin 
+  - [NaijaSenti](https://github.com/hausanlp/NaijaSenti) - Igbo, Hausa, Yoruba, Pidgin
+  - [WAXAL — Google Research Africa Open Speech Dataset](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/introducing-waxal-a-new-open-dataset-for-african-speech-technology/) – 21 Sub-Saharan African languages incl. Hausa, Yoruba, Igbo; 11,000+ hours of speech (~1,250 hrs transcribed for ASR, 20+ hrs studio for TTS); community-led, open on Hugging Face.
+  - [African Voices Nigeria](https://arxiv.org/abs/2604.16287) – Hausa, Igbo, Yoruba, Nigerian Pidgin; 2,500 hours of ethically sourced spontaneous speech from 2,800+ speakers with rich demographic metadata.
 
 
 * ### **Benchmarks** 
@@ -392,6 +446,11 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   -  [AI Collective Industry Event](https://www.youtube.com/watch?v=knDnL-sPZQA)
   -  [NUC Introduces Artificial Intelligence, Nuclear Engineering Among 13 New Courses For Nigerian Universities ](https://www.arise.tv/nuc-introduces-artificial-intelligence-nuclear-engineering-among-13-new-courses-for-nigerian-universities/)
   -  [Nigeria announced establishment of its Its First National AI Centre of Excellence at the University of Jos](https://www.premiumtimesng.com/news/top-news/848128-fg-to-launch-first-national-ai-centre-of-excellence.html)
+  -  [Nigeria climbs to 72nd on the 2025 Oxford Insights Government AI Readiness Index (from 103rd), ranked best in Africa for AI governance](https://businessday.ng/technology/article/nigeria-among-fastest-climbers-globally-in-ai-readiness-ranking-oxford-report/)
+  - [UNESCO AI Readiness Assessment Report affirms Nigeria's best-in-Africa AI governance framework](https://unesdoc.unesco.org/ark:/48223/pf0000398538)
+  - [Google/Ipsos "Our Life with AI" report: 93% of Nigerians use AI for complex learning — the highest rate globally (vs 74% average)](https://www.thecable.ng/google-93-of-nigerians-use-ai-tools-well-above-global-average/)
+  - [Nigerian AI startup Decide ranks 4th globally on SpreadsheetBench (82.5% accuracy)](https://businesspost.ng/technology/nigerian-ai-startup-decide-ranks-fourth-globally-for-spreadsheet-accuracy/)
+  - [IMF ranks Nigeria among the top 5 Sub-Saharan African economies for projected AI-driven productivity gains](https://www.imf.org/-/media/files/publications/dp/2026/english/upaiea.pdf) - In its July 2026 departmental paper *Unlocking the Potential: AI in Sub-Saharan Africa*, the IMF lists Nigeria alongside South Africa, Mauritius, Botswana and Namibia as the economies best positioned to benefit from AI, names Nigeria among the region's three largest data-centre hubs, and cites Nigeria's Three Million Technical Talent (3MTT) programme and uLesson as examples. Minister 'Bosun Tijani welcomed the recognition. ([IMF summary](https://www.imf.org/en/news/articles/2026/07/21/cf-africa-can-grow-faster-with-ai-if-it-moves-now))
  
 * ### **Local Awards**
   - [FUTA DSN AI School of the Year 2025 @ DSN AI Bootcamp 2025](https://www.vanguardngr.com/2025/11/ai-bootcamp-data-science-nigeria-empowers-africas-young-innovators/)
@@ -417,6 +476,8 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
     - [Dialect-Aware Neural Models for Low-Resource African Languages (Igbo Case Study)](https://www.linkedin.com/posts/dsnai_datasciencenigeria-neurips2025-activity-7399472359784476672-0PlF/)  
     - [Women in Machine Learning (WiML) Workshop](https://www.linkedin.com/posts/ukachi-eze-mbey_neurips2025-ai-nlp-activity-7412847451017052160-HMpr/)  
     - [Pidgin Science Voices & Low-Resource Languages](https://www.linkedin.com/posts/flora-oladipupo_neurips2025-nlp-lowresourcelanguage-activity-7406981507283722242-6nH6/)
+    - [Accent-Aware Text-to-Speech for Nigerian English (NeurIPS 2025)](https://neurips.cc/virtual/2025/loc/sandiego/133733)
+
 
   - ### [ICLR](https://iclr.cc/)  
     - [Data Science Nigeria](https://www.linkedin.com/posts/dsnai_datasciencenigeria-activity-7320456521341947905-qO6r/)  
@@ -427,11 +488,21 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
     - [LinkedIn: DSN African NLP 2025](https://www.linkedin.com/posts/dsnai_africanlp-datasciencenigeria-africanlp2025-activity-7353043968407805952-NTwx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpmKocBHbJuxazxoNRIJTA7yDRguzGd-3o)  
     - [ACL Anthology: 2025 African NLP Paper](https://aclanthology.org/2025.africanlp-1.14/)  
     - [ACL Anthology: 2025 LoResMT Paper](https://aclanthology.org/2025.loresmt-1.6/)
+    - [AfroBench: How Good are LLMs on African Languages? (Findings of ACL 2025)](https://aclanthology.org/2025.findings-acl.976/)
+    - [BRIGHTER: Emotion Recognition Datasets for 28 Languages (ACL 2025, Best Resource Paper)](https://aclanthology.org/2025.acl-long.436/)
 
   - ### [Deep Learning Indaba](https://deeplearningindaba.com/2025/)  
     - [DSN Medium Article: Deep Learning Indaba 2025](https://datasciencenigeria.medium.com/data-science-nigeria-at-deep-learning-indaba-2025-wins-insights-and-the-road-to-nigeria-2026-df7bac933a9d)  
     - [LinkedIn: Patchizzymba DLI2025](https://www.linkedin.com/posts/patchizzymba_dli2025-urunana-deeplearningindaba-activity-7366520651232219136-UKRD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpmKocBHbJuxazxoNRIJTA7yDRguzGd-3o)  
     - [LinkedIn: Sakinat Folorunso DLI2025](https://www.linkedin.com/posts/sakinat-folorunso-8b747760_indaba2025-dli2025-ururana-activity-7363510450858176514-VKTo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpmKocBHbJuxazxoNRIJTA7yDRguzGd-3o)
+      
+  - ### [EACL 2026 / AfricaNLP 2026](https://2026.eacl.org/)
+    - [AfriMTEB and AfriE5 — Text Embedding Models for African Languages](https://arxiv.org/abs/2510.23896)
+    - [African Voices Nigeria — 2,500 Hours of Speech Data (Best Paper)](https://arxiv.org/abs/2604.16287)
+    - [SAFARI — Stereotype Resources for Sub-Saharan Africa](https://aclanthology.org/2026.eacl-short.27/)
+    - [Language Choice in Nigerian Social Media Hate Speech](https://aclanthology.org/)
+    - [AfriCaption — Image Captioning in African Languages](https://aclanthology.org/)
+    - [Evaluating Yoruba TTS for Accessible Computer-Based Testing](https://aclanthology.org/)
    
 ## Community Platforms
 
@@ -449,4 +520,5 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
 - [Ibe Nchedo Precious](https://github.com/PreciousIbe)
 - [Blessing Akanimoh James](https://github.com/Blessing-Akanimoh-James)
 - [Emmanuel Davis](https://github.com/EODavis)
+- [Blessing Agboola](https://github.com/BlessingGideon)
 
