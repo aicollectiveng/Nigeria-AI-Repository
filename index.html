@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nigeria AI Repository · AI Collective</title>
+<meta name="description" content="A catalogue of the full spectrum of AI advancement in Nigeria, by the Nigeria AI Collective.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav><div class="wrap">
+  <a class="brand" href="index.html"><b class="mark">✦</b><span>Nigeria AI Repository</span></a>
+  <div class="links">
+    <a href="index.html" class="active">Explore</a>
+    <a href="digest.html">Digest</a>
+    <a href="contributors.html">Contributors</a>
+    <a class="gh" href="https://github.com/aicollectiveng/Nigeria-AI-Repository">GitHub</a>
+    <button class="btn" id="themeBtn" aria-label="Toggle dark mode">🌙</button>
+  </div>
+</div></nav>
+
+<header class="hero">
+  <canvas id="bg" aria-hidden="true"></canvas>
+  <div class="wrap">
+    <img class="logo" src="images/logo-white.png" alt="AI Collective · Nigeria AI Repository">
+    <h1>Mapping <span class="hl">Nigeria's AI</span> ecosystem</h1>
+    <p>Discover <span class="typed" id="typed"></span><span class="cursor"></span><br>
+      Open, ethical and inclusive. Curated by the Nigeria AI Collective community.</p>
+    <div class="cta">
+      <a class="primary" href="#explore">Explore the repository ✦</a>
+      <a class="ghost" href="digest.html">Read the Monthly Digest</a>
+    </div>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+
+<main class="explorer wrap" id="explore">
+  <input class="search" id="search" type="search" placeholder="Search 300+ models, datasets, startups, papers, policies…" aria-label="Search the repository">
+  <div class="chips" id="chips"></div>
+  <div class="count" id="count"></div>
+  <div class="grid" id="grid"></div>
+  <button class="more" id="more" hidden>Show more</button>
+</main>
+
+<footer>
+  <a href="https://www.youtube.com/@aicollectiveng">YouTube</a>
+  <a href="https://x.com/aicollectiveng">X</a>
+  <a href="https://www.linkedin.com/company/nigeria-ai-collective/">LinkedIn</a>
+  <a href="https://bit.ly/AI-Collective-Com-Onboard">Join the community</a>
+  <div style="margin-top:8px">Nigeria Artificial Intelligence Industry Collective · CC0-1.0</div>
+</footer>
+
+<script src="data.js"></script>
+<script src="common.js"></script>
+<script>
+// Typing effect
+const words = ["Nigerian language models.","open African datasets.","AI startups.","published research.","national AI policy.","data centres and compute."];
+(function type(w=0,c=0,del=false){
+  const el = document.getElementById('typed'), word = words[w];
+  el.textContent = word.slice(0,c);
+  if(!del && c<word.length) return setTimeout(()=>type(w,c+1,false),70);
+  if(!del) return setTimeout(()=>type(w,c,true),1500);
+  if(c>0) return setTimeout(()=>type(w,c-1,true),35);
+  setTimeout(()=>type((w+1)%words.length,0,false),250);
+})();
+
+// The four headline numbers — counted live from the README data
+const STAT_CATS = ["Tools & Platforms","Startups","Published Papers","Datasets"];
+const statsEl = document.getElementById('stats');
+statsEl.innerHTML = STAT_CATS.map(c => {
+  const n = RESOURCES.filter(r => r[0] === c).length;
+  return `<a class="stat" href="#explore" data-c="${c}"><b data-to="${n}">0</b><span>${c}</span></a>`;
+}).join('');
+const io = new IntersectionObserver(es => es.forEach(e => { if(!e.isIntersecting) return;
+  const el = e.target, to = +el.dataset.to, t0 = performance.now();
+  (function tick(t){ const p = Math.min((t-t0)/1400,1); el.textContent = Math.round(to*(1-Math.pow(1-p,3))); if(p<1) requestAnimationFrame(tick); })(t0);
+  io.unobserve(el); }));
+statsEl.querySelectorAll('b').forEach(b => io.observe(b));
+statsEl.onclick = e => { const s = e.target.closest('.stat'); if(s) setCat(s.dataset.c); };
+
+// Search + filter + paging
+let active = "All", shown = 24;
+const esc = s => String(s).replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+const chips = document.getElementById('chips');
+chips.innerHTML = ["All",...CATEGORIES].map(c => {
+  const n = c === "All" ? RESOURCES.length : RESOURCES.filter(r => r[0] === c).length;
+  return `<button class="chip${c==="All"?" active":""}" data-c="${esc(c)}">${esc(c)}<i>${n}</i></button>`; }).join('');
+chips.onclick = e => { const b = e.target.closest('.chip'); if(b) setCat(b.dataset.c); };
+function setCat(c){ active = c; shown = 24;
+  chips.querySelectorAll('.chip').forEach(b => b.classList.toggle('active', b.dataset.c === c)); render(); }
+const search = document.getElementById('search');
+search.oninput = () => { shown = 24; render(); };
+document.getElementById('more').onclick = () => { shown += 24; render(); };
+
+function render(){
+  const q = search.value.trim().toLowerCase();
+  const list = RESOURCES.filter(([cat,name,,desc]) =>
+    (active === "All" || cat === active) && (!q || (name+" "+desc+" "+cat).toLowerCase().includes(q)));
+  document.getElementById('count').textContent = `Showing ${Math.min(shown,list.length)} of ${list.length}` + (active!=="All" ? ` in ${active}` : "");
+  document.getElementById('grid').innerHTML = list.length ? list.slice(0,shown).map(([cat,name,url,desc],i) => `
+    <a class="card" href="${esc(url)}" target="_blank" rel="noopener" style="animation-delay:${(i%24)*25}ms">
+      <span class="tag">${esc(cat)}</span><h3>${esc(name)}</h3><p>${esc(desc)}</p><span class="go">Open ↗</span>
+    </a>`).join('') : `<div class="empty">Nothing found. Try another word.</div>`;
+  document.getElementById('more').hidden = list.length <= shown;
+}
+render();
+</script>
+</body>
+</html>
