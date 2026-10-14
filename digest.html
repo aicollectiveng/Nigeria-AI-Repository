@@ -62,7 +62,7 @@ document.getElementById('intro').textContent =
 // Latest edition spotlight
 const L = all[0];
 document.getElementById('latest').innerHTML = `
-  <a href="${view(L)}" target="_blank" rel="noopener"><img src="images/digest/${esc(L.cover)}" alt="Cover of the ${esc(L.title)} digest"></a>
+  <a href="${view(L)}" target="_blank" rel="noopener"><img src="${esc(L.cover)}" alt="Cover of the ${esc(L.title)} digest"></a>
   <div>
     <span class="tag">Latest edition</span>
     <h2>${esc(L.title)}</h2>
@@ -92,7 +92,7 @@ function render(){
   document.getElementById('list').innerHTML = list.length ? list.map((d,i) => `
     <article class="digest" style="animation-delay:${i*50}ms">
       <a class="thumb" href="${view(d)}" target="_blank" rel="noopener">
-        <img src="images/digest/${esc(d.cover)}" alt="Cover of the ${esc(d.title)} digest" loading="lazy">
+        <img src="${esc(d.cover)}" alt="Cover of the ${esc(d.title)} digest" loading="lazy">
         <span class="badge ${d.edition==="Special"?"special":""}">${d.edition==="Special"?"Special edition":"Monthly"}</span>
         <span class="pages">${d.pages} pages</span>
       </a>
