@@ -10,7 +10,7 @@ body:
         Use this form to suggest a paper, startup, dataset, tool, event, award or anything else about AI in Nigeria.
         You don't need to know Git or edit any files. A maintainer will review your submission and add it to the repository.
 
-        > **Please note:** everything you enter here, including your email, will be **publicly visible** on GitHub.
+        > **Please note:** everything you enter here, including your portfolio link, will be **publicly visible** on GitHub.
 
   - type: input
     id: name
@@ -22,11 +22,11 @@ body:
       required: true
 
   - type: input
-    id: email
+    id: portfolio link
     attributes:
-      label: Email address
+      label: Portfolio Link
       description: So we can contact you if we have questions. This will be visible publicly.
-      placeholder: e.g. amina@example.com
+      placeholder: e.g. GitHub, LinkedIn
     validations:
       required: true
 
