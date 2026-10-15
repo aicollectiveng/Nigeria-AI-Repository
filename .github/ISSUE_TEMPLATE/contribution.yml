@@ -26,7 +26,7 @@ body:
     attributes:
       label: Portfolio Link
       description: So we can contact you if we have questions. This will be visible publicly.
-      placeholder: e.g. GitHub, LinkedIn
+      placeholder: e.g. GitHub or LinkedIn
     validations:
       required: true
 
