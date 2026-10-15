@@ -24,7 +24,44 @@ You can contribute to this repository in the following key areas:
 
 ## 2. How to Submit Your Contribution
 
-Follow these five simple steps to submit your entry:
+There are **two ways** to contribute. Choose the one that suits you best:
+
+| | **Option A: Contribution Form** | **Option B: Pull Request** |
+| :--- | :--- | :--- |
+| **Best for** | Non-developers, researchers, policymakers, students, anyone | Developers comfortable with Git and Markdown |
+| **What you need** | A free GitHub account | A GitHub account and basic Git knowledge |
+| **What you do** | Fill a short form | Edit the `README` yourself |
+| **Who adds the entry** | A maintainer adds it for you | You add it; a maintainer reviews and merges |
+
+### Option A: Submit Through the Contribution Form (no coding needed)
+
+1.  **Open the form**
+    Click here: [**✦ Submit a contribution**](https://github.com/aicollectiveng/Nigeria-AI-Repository/issues/new?template=contribution.yml)
+    (or go to the **Issues** tab → **New issue** → **Submit a contribution (no coding needed)**).
+
+2.  **Sign in to GitHub**
+    If you don't have an account, [create one for free](https://github.com/signup). It takes about a minute.
+
+3.  **Fill in the form**
+
+    | Field | What to enter |
+    | :--- | :--- |
+    | **Full name** | How you'd like to be credited |
+    | **Email address** | So we can reach you if we have questions |
+    | **Affiliation** | Your organisation, university, startup, lab or community (or "Independent") |
+    | **Type of contribution** | The section it belongs to, e.g. Dataset, Startup, Published Paper |
+    | **Name or title of the resource** | e.g. *NaijaVoices dataset* |
+    | **Link** | An official or trusted link |
+    | **Your contribution** | One to three sentences on what it is and why it matters for AI in Nigeria |
+
+4.  **Click "Create"**
+    Your submission is saved as an issue labelled `contribution`. A maintainer will review it, add it to the repository and close the issue with a thank-you note. You'll get GitHub notifications along the way.
+
+> **Privacy note:** GitHub issues are public. Everything you enter in the form, including your email address, can be seen by anyone. If you'd rather keep your email private, contact us through the channels in [Section 7](#7-need-help).
+
+### Option B: Submit a Pull Request (for developers)
+
+Follow these five steps to submit your entry:
 
 1.  **Fork the Repository**
     Click the **Fork** button at the top right of the Repository page.
@@ -72,7 +109,7 @@ Use these examples to structure your addition in the `README`:
 
 Every effort is valued, from a minor edit to a major dataset addition.
 
-Your name will automatically appear in the **Contributors** section below once your Pull Request is merged (via GitHub’s contributor graph).
+Your name will automatically appear in the **Contributors** section once your Pull Request is merged (via GitHub’s contributor graph). If you used the **Contribution Form**, a maintainer will credit you using the name and affiliation you provided.
 
 If you’d like manual recognition, please add your name below with a short description of your work:
 
@@ -112,7 +149,8 @@ All community members are expected to:
 
 If you're unsure how to format your entry or where to add it:
 
-* **Open a GitHub Issue** with your proposed addition.
+* **Use the [Contribution Form](https://github.com/aicollectiveng/Nigeria-AI-Repository/issues/new?template=contribution.yml)**. You don't need to format anything; we'll do it for you.
+* **Open a GitHub Issue** with any other question.
 
 Or, reach out to us via:
 
