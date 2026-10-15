@@ -22,11 +22,11 @@ body:
       required: true
 
   - type: input
-    id: portfolio link
+    id: portfolio_link
     attributes:
-      label: Portfolio Link
-      description: So we can contact you if we have questions. This will be visible publicly.
-      placeholder: e.g. GitHub or LinkedIn
+      label: Portfolio link
+      description: A link to your GitHub, LinkedIn or personal website, so we can credit you and reach you if we have questions. This will be visible publicly.
+      placeholder: e.g. https://www.linkedin.com/in/your-name
     validations:
       required: true
 
