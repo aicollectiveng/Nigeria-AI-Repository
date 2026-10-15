@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contributors Guide
+    url: https://github.com/aicollectiveng/Nigeria-AI-Repository/blob/main/Contributors%20Guide.md
+    about: Read how to contribute, including the pull request method for developers.
+  - name: Join the Nigeria AI Collective community
+    url: https://bit.ly/AI-Collective-Com-Onboard
+    about: Fill the registration form to join our WhatsApp community.
