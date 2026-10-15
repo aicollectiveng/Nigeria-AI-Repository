@@ -3,7 +3,10 @@
 // to the "Monthly Digest" folder. Newest first is not required:
 // the page sorts by `sort` (YYYY-MM).
 // file:  exact PDF file name inside "Monthly Digest/"
-// cover: thumbnail image in docs/images/digest/ (first page of the PDF)
+// cover: first-page thumbnail (used only if no design image is found)
+// image: (optional) design image file. If left out, the page looks for an image in the
+//        "Monthly Digest" folder with the SAME name as the PDF, ending in .png or .jpg
+//        e.g. "July 2026 Monthly Digest.pdf"  ->  "July 2026 Monthly Digest.png"
 // ============================================================
 
 const DIGEST_FOLDER = "https://github.com/aicollectiveng/Nigeria-AI-Repository/blob/main/Monthly%20Digest/";
@@ -25,7 +28,7 @@ const DIGESTS = [
   { title: "April 2026", edition: "Monthly", label: "Month ending April 2026", sort: "2026-04", pages: 18,
     file: "April Monthly Digest 2026.pdf", cover: "april-monthly-digest-2026.jpg",
     highlights: ["VP Shettima launches AI University Innovation Pods at UNILAG", "CJID launches the AI Advocacy Project", "Toward comprehensive AI regulation as the Digital Economy Bill nears passage"] },
-  { title: "India AI Impact Summit 2026", edition: "Special", label: "Special edition 2026", sort: "2026-02", pages: 24,
+  { title: "India AI Impact Summit 2026", edition: "Special", label: "Special edition · March 2026", sort: "2026-03", pages: 24,
     file: "India AI Impact Summit 2026 Special Digest.pdf", cover: "india-ai-impact-summit-2026-special-digest.jpg",
     highlights: ["Nigeria AI Collective amplifies the national AI ecosystem in New Delhi", "Google & Ipsos: 93% of Nigerians use AI for complex learning", "Nigerian startup Decide ranks 4th globally for spreadsheet AI accuracy"] },
   { title: "November 2025", edition: "Monthly", label: "Month ending November 2025", sort: "2025-11", pages: 18,

@@ -43,9 +43,27 @@
 <footer>
   <a href="index.html">Explore</a>
   <a href="contributors.html">Contributors</a>
+  <a href="https://github.com/aicollectiveng/Nigeria-AI-Repository/issues/new?template=contribution.yml">Contribute</a>
   <a href="https://bit.ly/AI-Collective-Com-Onboard">Join the community</a>
   <div style="margin-top:8px">Nigeria Artificial Intelligence Industry Collective · CC0-1.0</div>
 </footer>
+
+<dialog id="viewer" class="viewer" aria-label="Digest preview">
+  <button class="vclose" id="vClose" aria-label="Close preview">✕</button>
+  <div class="vgrid">
+    <div class="vimg" id="vImg"></div>
+    <div class="vinfo">
+      <span class="tag">Monthly Digest</span>
+      <h2 id="vTitle"></h2>
+      <div class="sub" id="vSub"></div>
+      <ul id="vList"></ul>
+      <div class="vactions">
+        <a class="read" id="vRead" target="_blank" rel="noopener">Read the digest</a>
+        <a class="dl" id="vDl" target="_blank" rel="noopener">Download PDF</a>
+      </div>
+    </div>
+  </div>
+</dialog>
 
 <script src="digests.js"></script>
 <script src="common.js"></script>
@@ -54,6 +72,15 @@ const esc = s => String(s).replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt;','>':
 const all = [...DIGESTS].sort((a,b) => b.sort.localeCompare(a.sort));
 const view = d => DIGEST_FOLDER + encodeURIComponent(d.file);
 const raw  = d => DIGEST_RAW + encodeURIComponent(d.file);
+// Design image for each digest. Order tried:
+// 1) the `image` field in digests.js, 2) "<PDF name>.png" in the Monthly Digest folder,
+// 3) "<PDF name>.jpg" in the Monthly Digest folder, 4) the PDF cover thumbnail.
+const baseName = d => encodeURIComponent(d.file.replace(/\.pdf$/i, ''));
+const imgSrcs = d => [d.image, DIGEST_RAW + baseName(d) + '.png', DIGEST_RAW + baseName(d) + '.jpg', d.cover].filter(Boolean);
+function nextSrc(img){ const rest = img.dataset.alt ? img.dataset.alt.split('|') : [];
+  if(!rest.length){ img.onerror = null; return; } img.src = rest.shift(); img.dataset.alt = rest.join('|'); }
+const imgTag = (d, lazy) => { const s = imgSrcs(d);
+  return `<img src="${esc(s[0])}" data-alt="${esc(s.slice(1).join('|'))}" onerror="nextSrc(this)" alt="${esc(d.title)} digest design"${lazy?' loading="lazy"':''}>`; };
 const totalPages = all.reduce((s,d) => s + d.pages, 0);
 
 document.getElementById('intro').textContent =
@@ -62,7 +89,7 @@ document.getElementById('intro').textContent =
 // Latest edition spotlight
 const L = all[0];
 document.getElementById('latest').innerHTML = `
-  <a href="${view(L)}" target="_blank" rel="noopener"><img src="${esc(L.cover)}" alt="Cover of the ${esc(L.title)} digest"></a>
+  <button class="peek" data-i="0" aria-label="Preview the ${esc(L.title)} digest">${imgTag(L,false)}<span class="zoom">Preview ⤢</span></button>
   <div>
     <span class="tag">Latest edition</span>
     <h2>${esc(L.title)}</h2>
@@ -91,11 +118,12 @@ function render(){
     (!q || (d.title+" "+d.label+" "+d.highlights.join(" ")).toLowerCase().includes(q)));
   document.getElementById('list').innerHTML = list.length ? list.map((d,i) => `
     <article class="digest" style="animation-delay:${i*50}ms">
-      <a class="thumb" href="${view(d)}" target="_blank" rel="noopener">
-        <img src="${esc(d.cover)}" alt="Cover of the ${esc(d.title)} digest" loading="lazy">
+      <button class="thumb" data-i="${all.indexOf(d)}" aria-label="Preview the ${esc(d.title)} digest">
+        ${imgTag(d,true)}
+        <span class="zoom">Preview ⤢</span>
         <span class="badge ${d.edition==="Special"?"special":""}">${d.edition==="Special"?"Special edition":"Monthly"}</span>
         <span class="pages">${d.pages} pages</span>
-      </a>
+      </button>
       <div class="body">
         <h3>${esc(d.title)}</h3>
         <div class="sub">${esc(d.label)}</div>
@@ -108,6 +136,22 @@ function render(){
     </article>`).join('') : `<div class="empty">No digest matches that search.</div>`;
 }
 render();
+
+// Preview window: shows the digest's design image before reading or downloading
+const dlg = document.getElementById('viewer');
+document.body.addEventListener('click', e => {
+  const t = e.target.closest('[data-i]'); if(!t) return;
+  const d = all[+t.dataset.i];
+  document.getElementById('vImg').innerHTML = imgTag(d,false);
+  document.getElementById('vTitle').textContent = d.title;
+  document.getElementById('vSub').textContent = `${d.label} · ${d.pages} pages`;
+  document.getElementById('vList').innerHTML = d.highlights.map(h => `<li>${esc(h)}</li>`).join('');
+  document.getElementById('vRead').href = view(d);
+  document.getElementById('vDl').href = raw(d);
+  dlg.showModal();
+});
+document.getElementById('vClose').onclick = () => dlg.close();
+dlg.addEventListener('click', e => { if(e.target === dlg) dlg.close(); });
 </script>
 </body>
 </html>
