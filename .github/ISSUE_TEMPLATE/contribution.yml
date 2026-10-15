@@ -1,0 +1,100 @@
+name: "✦ Submit a contribution (no coding needed)"
+description: Suggest a resource for the Nigeria AI Repository using a simple form. A maintainer will review it and add it for you.
+title: "[Contribution]: "
+labels: ["contribution", "form-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Thank you for contributing to the Nigeria AI Repository ✦
+        Use this form to suggest a paper, startup, dataset, tool, event, award or anything else about AI in Nigeria.
+        You don't need to know Git or edit any files. A maintainer will review your submission and add it to the repository.
+
+        > **Please note:** everything you enter here, including your email, will be **publicly visible** on GitHub.
+
+  - type: input
+    id: name
+    attributes:
+      label: Full name
+      description: How you'd like to be credited as a contributor.
+      placeholder: e.g. Amina Bello
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: Email address
+      description: So we can contact you if we have questions. This will be visible publicly.
+      placeholder: e.g. amina@example.com
+    validations:
+      required: true
+
+  - type: input
+    id: affiliation
+    attributes:
+      label: Affiliation
+      description: Your organisation, university, startup, research lab or community. Write "Independent" if none.
+      placeholder: e.g. University of Lagos / Data Science Nigeria / Independent
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Type of contribution
+      description: Which section of the repository does it belong to?
+      options:
+        - Tools & Platforms
+        - AI Startup / Organisation
+        - Published Paper / Research
+        - Dataset
+        - Benchmark / API / Library
+        - Government & Policy
+        - Initiative or Partnership
+        - AI Infrastructure
+        - Event or Hackathon
+        - Award or Recognition
+        - Learning Content
+        - Sector Application (health, education, agriculture, finance…)
+        - Monthly Digest content
+        - Correction to an existing entry
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Name or title of the resource
+      placeholder: e.g. NaijaVoices dataset
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: An official or trusted link (website, paper, GitHub, Hugging Face, news article).
+      placeholder: https://
+    validations:
+      required: true
+
+  - type: textarea
+    id: contribution
+    attributes:
+      label: Your contribution
+      description: Describe what it is, who built it and why it matters for AI in Nigeria. One to three sentences is enough.
+      placeholder: e.g. A curated dataset of Yoruba, Hausa and Igbo voice samples for speech recognition, built by…
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: The information is accurate, and the link is official or from a trusted source.
+          required: true
+        - label: I agree to follow the project's Code of Conduct.
+          required: true
