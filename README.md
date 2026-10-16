@@ -260,7 +260,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
 
 
 * ### **AI Learning Content Developed By Nigerians**
-  - [Richly AI](https://learn.richlyai.com/?utm_source=chatgpt.com)
+  - [Richly AI](https://learn.richlyai.com/)
   - [MacroTutor](https://techcabal.com/2022/08/29/macrotutor-dsn-unveils-ai-powered-on-demand-education-platform-to-prepare-students-for-future-of-work/)
   - [AI in Hausa](https://youtube.com/playlist?list=PL0mGkrTWmp4uDzOE1Map6F0776khmdlUg&si=BxFsEU3w3dImd24v)
   - [Artifical Intelligence and Digital Technologies Simplified  in Yoruba](https://youtube.com/playlist?list=PL0mGkrTWmp4tEOEwt4gz0o3jpZyRHuHUA&si=0ZoWSFpvEuWYl4o7)
@@ -409,16 +409,16 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
 * ### **API Libraries & Frameworks**  
   - [Igbo API](https://igboapi.com/)
   - [Hugging Face – Nigerian Language Models](https://huggingface.co/models)
-  - [Nigerian States API](https://github.com/emekaokoye/NG-States-API?utm_source=chatgpt.com)
+  - [Nigerian States API](https://github.com/emekaokoye/NG-States-API)
   - [Nigeria GeoJSON & Location Data API](https://github.com/temikeezy/nigeria-geojson-data)
-  - [Nigeria States & LGAs API](https://github.com/Ordu-Tech/ng-state-lga-api?utm_source=chatgpt.com)
+  - [Nigeria States & LGAs API](https://github.com/Ordu-Tech/ng-state-lga-api)
   - [All Nigeria API](https://github.com/aligorithm/allnigeria-api)
   - [African Proverbs API](https://github.com/elvis-ndubuisi/african-proverbs)
   - [Naija Faker](https://github.com/onedebos/naija-faker)
-  - [Open Banking Nigeria API](https://github.com/openbankingnigeria/api?utm_source=chatgpt.com)
-  - [LumiID API](https://lumiid.com/api/docs/?utm_source=chatgpt.com)
-  - [20,000 past questions API end points for POST-UTME, UTME, WASSCE, NECO questions](https://github.com/Seunope/aloc-endpoints?utm_source=chatgpt.com)
-  - [Nigerian States Data API (Zyla API Hub)](https://zylalabs.com/api-marketplace/location%2B%26%2Bmapping/nigerian%2Bstates%2Bdata%2Bapi/6221?utm_source=chatgpt.com)
+  - [Open Banking Nigeria API](https://github.com/openbankingnigeria/api)
+  - [LumiID API](https://lumiid.com/api/docs/)
+  - [20,000 past questions API end points for POST-UTME, UTME, WASSCE, NECO questions](https://github.com/Seunope/aloc-endpoints)
+  - [Nigerian States Data API (Zyla API Hub)](https://zylalabs.com/api-marketplace/location%2B%26%2Bmapping/nigerian%2Bstates%2Bdata%2Bapi/6221)
 
 
 ## Innovation
