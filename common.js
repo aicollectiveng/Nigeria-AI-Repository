@@ -1,4 +1,29 @@
-// Shared: dark mode toggle, scroll reveal, animated sparkle-network background
+// Shared: site settings, visitor tracking, dark mode toggle, scroll reveal, animated background
+
+// ============================================================
+// SITE SETTINGS — change this one line after creating your GoatCounter account.
+// Example: for https://aicollectiveng.goatcounter.com write "aicollectiveng"
+// Leave it empty ("") to switch website visitor tracking off.
+// ============================================================
+const SITE = { goatcounter: "aicollectiveng" };
+const STATS_RAW = "https://raw.githubusercontent.com/aicollectiveng/Nigeria-AI-Repository/main/traffic/";
+
+// Website visitor tracking (GoatCounter: free, no cookies, no consent banner needed)
+(function track(){
+  if(!SITE.goatcounter || location.protocol === 'file:') return;
+  const s = document.createElement('script');
+  s.async = true; s.src = 'https://gc.zgo.at/count.js';
+  s.dataset.goatcounter = `https://${SITE.goatcounter}.goatcounter.com/count`;
+  document.head.appendChild(s);
+  // Live total in the footer, e.g. "1,234 visits"
+  fetch(`https://${SITE.goatcounter}.goatcounter.com/counter/TOTAL.json`).then(r => r.ok ? r.json() : null).then(d => {
+    const f = document.querySelector('footer'); if(!d || !f) return;
+    const el = document.createElement('div'); el.className = 'visits';
+    el.innerHTML = '<a href="stats.html"></a>'; el.firstChild.textContent = `${d.count} visits · see analytics`;
+    f.appendChild(el);
+  }).catch(() => {});
+})();
+
 
 (function theme(){
   const root = document.documentElement, btn = document.getElementById('themeBtn');
