@@ -15,13 +15,6 @@ const STATS_RAW = "https://raw.githubusercontent.com/aicollectiveng/Nigeria-AI-R
   s.async = true; s.src = 'https://gc.zgo.at/count.js';
   s.dataset.goatcounter = `https://${SITE.goatcounter}.goatcounter.com/count`;
   document.head.appendChild(s);
-  // Live total in the footer, e.g. "1,234 visits"
-  fetch(`https://${SITE.goatcounter}.goatcounter.com/counter/TOTAL.json`).then(r => r.ok ? r.json() : null).then(d => {
-    const f = document.querySelector('footer'); if(!d || !f) return;
-    const el = document.createElement('div'); el.className = 'visits';
-    el.innerHTML = '<a href="stats.html"></a>'; el.firstChild.textContent = `${d.count} visits · see analytics`;
-    f.appendChild(el);
-  }).catch(() => {});
 })();
 
 
