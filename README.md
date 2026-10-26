@@ -46,7 +46,7 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
   - [ACL](#acl)
   - [Deep Learning Indaba](#deep-learning-indaba)
   - [EACL 2026 / AfricaNLP 2026](#eacl-2026--africanlp-2026)
-- [Community Platforms](community-platforms)
+- [Community Platforms](#community-platforms)
   - [Visit our Social Media Pages](#visit-our-social-media-pages)
 - [Contributors](#contributors)
 
@@ -149,6 +149,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [FactCheckAfrica Digital Democracy Suite](https://iafrica.com/) - Launched 7 May 2026: civic AI tools comprising KedereAI (a plain-language government accountability platform), GovQuest (scenario-based civic games) and The Power Deck (offline civic flashcards), built ahead of Nigeria's 2027 elections with support from the Ford and MacArthur Foundations.
   - [AI University Innovation Pod (UniPod) at UNILAG](https://www.undp.org/nigeria/press-releases/nigeria-flags-ai-unipod-university-lagos-nationwide-unipod-rollout-begins) - Flagged off 7 April 2026 by VP Kashim Shettima; a Federal Government–UNDP–TETFund partnership turning universities into AI production and enterprise hubs, with eight universities in the first cohort and plans to scale to 50+ nationwide.
   - [Renewed Hope–NITDA Innovation Hub at OAU](https://oauife.edu.ng/) - Commissioned 8 June 2026 at Obafemi Awolowo University, Ile-Ife; houses labs for AI, robotics, additive manufacturing and IoT, joining University of Nigeria Nsukka and Ahmadu Bello University as federally backed university innovation hubs.
+  - [Masakhane](https://www.masakhane.io/) - Grassroots pan-African NLP research community behind MasakhaNER, MAFAND-MT and AfriSenti; open to contributors at any experience level.
    
  
 * ###  Global Collaboration Partnerships
@@ -217,8 +218,8 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [BRIGHTER: Bridging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://aclanthology.org/2025.acl-long.436/) - Shamsuddeen Hassan Muhammad et al. (ACL 2025, Best Resource Paper) — multi-labelled emotion datasets across 28 low-resource languages with substantial Nigerian (Hausa) annotation leadership.
   - [Accent-Aware Text-to-Speech for Nigerian English: Building Inclusive Voice AI from Community-Curated Data](https://neurips.cc/virtual/2025/loc/sandiego/133733) - Christianah Oyewale, Benjamin Ogbonna (NeurIPS 2025, San Diego) — a Nigerian-accented English TTS system built on 4,000+ community-curated audio-text samples.
   - [Improving BGE-M3 Multilingual Dense Embeddings for Nigerian Low-Resource Languages](https://arxiv.org/) - Abdulmatin Omotoso, Habeeb Shopeju, Adejumobi Monjolaoluwa Joshua, Shiloh Oni — contrastive fine-tuning of BGE-M3 for Yoruba, Igbo and Hausa search and retrieval.
-  - [Language Choice in Nigerian Social Media Hate Speech](https://aclanthology.org/) - Nneoma C. Udeze, Rob Voigt (AfricaNLP 2026 / EACL 2026) — the first systematic analysis of Nigerian Pidgin in online hate speech across Twitter and Instagram.
-  - [AfriCaption: Establishing a New Paradigm for Image Captioning in African Languages](https://aclanthology.org/) - Mardiyyah Oduwole et al. (AfricaNLP 2026 / EACL 2026) — a multilingual image-captioning framework and 0.5B-parameter model across 20 African languages incl. Hausa, Yoruba, Igbo.
+  - [Language Choice in Nigerian Social Media Hate Speech](https://aclanthology.org/2026.africanlp-main.9/) - Nneoma C. Udeze, Rob Voigt (AfricaNLP 2026 / EACL 2026) — the first systematic analysis of Nigerian Pidgin in online hate speech across Twitter and Instagram.
+  - [AfriCaption: Establishing a New Paradigm for Image Captioning in African Languages](https://aclanthology.org/2026.africanlp-main.5/) - Mardiyyah Oduwole et al. (AfricaNLP 2026 / EACL 2026) — a multilingual image-captioning framework and 0.5B-parameter model across 20 African languages incl. Hausa, Yoruba, Igbo.
   - [Evaluating Yoruba Text-to-Speech Systems for Accessible Computer-Based Testing in Visually Impaired Learners](https://aclanthology.org/) - Kausar Yetunde Moshood et al. (AfricaNLP 2026 / EACL 2026) — evaluates Yoruba TTS for exam accessibility for visually impaired students.
   - [Fiction As Framework: The Imagined World of AI and the Ensuing Realities](https://thecjid.org/) - Oluwapelumi Oginni (CJID) — a knowledge resource on how lessons from fiction can guide responsible, accountable and inclusive AI governance.
   - [SAFARI: A Community-Engaged Approach and Dataset of Stereotype Resources in the Sub-Saharan African Context](https://aclanthology.org/2026.eacl-short.27/) - Verma et al. (EACL 2026, Rabat) — a multilingual stereotype dataset spanning Ghana, Kenya, Nigeria and South Africa across 15 languages (incl. Hausa, Igbo, Yoruba), used to measure how often leading AI models endorse sub-Saharan African stereotypes.
@@ -226,7 +227,6 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
 
 * ### **Directory of AI Startups** 
   - [EqualyzAI](https://equalyz.ai/) - Works with native speakers to collect rich, hyperlocal data—driving AI forward and creating real economic value for African communities.
-  - [MasakhaNER](https://www.masakhane.io/) - Masakhane welcomes everyone, no matter their NLP experience, fostering inclusiveness and knowledge sharing.
   - [AfriHate](https://github.com/AfriHate/AfriHate) - Hate and Offensive Speech Detection for African Languages. 
   - [Ubenwa (Nanni AI)](https://www.ubenwa.ai/) - AI platform for cry interpretation of Newborns.
   - [CyberAgric](https://cyberagric.com/) - AI-powered mobile app that diagnoses crop diseases through image analysis and provides tailored treatment recommendations.
@@ -238,7 +238,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Helium Health](https://heliumhealth.com/) - Helium Health is leveraging AI to streamline hospital operations, enhance patient care, and improve medical decision-making.
   - [Unbabel](https://unbabel.com/) - This platform integrates machine translation with human editing to ensure high-quality translations that are contextually appropriate.
   - [BetaLife Health](https://betalifehealth.com/) - An AI-powered platform enhancing blood supply management for hospitals. It integrates real-time data analytics to predict blood demand, optimize logistics, and connects donors to recipients, improving patient outcomes and reducing wastage.
-  - [Bunce](https://betalifehealth.com/) - A SaaS platform using AI to drive customer engagement and automate payment processes for African businesses, enabling smarter messaging, personalized campaigns, and better retention across channels like email, SMS, and WhatsApp.
+  - [Bunce](https://bunce.helpscoutdocs.com/article/6-introduction-to-bunce) - A SaaS platform using AI to drive customer engagement and automate payment processes for African businesses, enabling smarter messaging, personalized campaigns, and better retention across channels like email, SMS, and WhatsApp.
   - [Intron Health](https://speech.intron.health/login) - Provides AI-powered clinical speech recognition tailored to African accents, supporting doctors with faster, accurate documentation and improving the efficiency of Electronic Health Records in hospitals.
   - [Lendsqr](https://lendsqr.com/nigeria) - A fintech startup using AI for advanced loan management and credit decisioning. Its loan origination platform leverages voice and video analysis to assess borrowers, improving access to credit for the underserved.
   - [DRO Health](https://drohealth.com/) - An AI-driven telemedicine platform connecting patients with certified doctors remotely and providing digital health management, appointment scheduling, and AI-based triage tools.
@@ -371,12 +371,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [English-Luganda Dataset](https://zenodo.org/records/4764039#.YLYHb9gzaUk) – English-Luganda
   - [French-Fon and French-Ewe Dataset](https://github.com/kingabzpro/French-to-Fongbe-and-Ewe-MT) – French-Fon, French-Ewe
   - [Amharic-English Dataset](https://www.findke.ovgu.de/findke/en/Research/Data+Sets/Amharic_English+Parallel+Corpus-p-1144.html) – Amharic-English
-  - [Tigrinya-English Dataset](https://gamayun.translatorswb.org/download/gamayun-mini-kit-5k-tigrinya-english/) – Tigrinya-English
-  - [Lingala-French Dataset](https://gamayun.translatorswb.org/download/gamayun-mini-kit-5k-lingala-french/) – Lingala-French
-  - [Swahili-French Dataset](https://gamayun.translatorswb.org/download/monosw-fr/) – Swahili-French
-  - [English-Hausa Dataset](https://gamayun.translatorswb.org/download/gamayun-5k-english-hausa/) – English-Hausa
-  - [English-Swahili Dataset](https://gamayun.translatorswb.org/download/gamayun-5k-english-swahili/) – English-Swahili
-  - [English-Kanuri Dataset](https://gamayun.translatorswb.org/download/gamayun-mini-kit-5k-kanuri-english/) – English-Kanuri
+  - [Gamayun Kits (CLEAR Global / Translators without Borders)](https://huggingface.co/datasets/CLEAR-Global/Gamayun-kits) – English paired with Hausa, Kanuri, Swahili, Lingala, Tigrinya and others (the former gamayun.translatorswb.org download pages are offline)
   - [English-Akuapem Twi Dataset](https://zenodo.org/records/4432117#.YMEF3fkzbIU) – English-Akuapem Twi
   - [FLORES+ Dataset](https://huggingface.co/datasets/openlanguagedata/flores_plus) – 20 African Languages
   - [Tatoeba Dataset](https://huggingface.co/datasets/Helsinki-NLP/tatoeba) – 28 African Languages
@@ -386,7 +381,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Setswana and Sepedi News Dataset](https://arxiv.org/abs/2004.13842) – Setswana, Sepedi
   - [Swahili News Dataset](https://www.kaggle.com/datasets/alfredkondoro/swahili-news-classification-zindi) – Swahili
   - [Amharic News Text Classification Dataset](https://www.kaggle.com/datasets/mathurinache/amharicnewstextclassificationdataset) – Amharic
-  - [VOA Hausa and BBC Yoruba News Classification Dataset](https://github.com/Andrews2017/af) – Hausa, Yoruba
+  - [VOA Hausa and BBC Yoruba News Classification Dataset](https://github.com/uds-lsv/transfer-distant-transformer-african) – Hausa, Yoruba
   - [MasakhaNER 2.0 Dataset](https://lacunafund.org/datasets/language/) – 20 African Languages
   - [IrokoBench Dataset](https://arxiv.org/abs/2406.03368) – 16 African Languages
   - [InkubaLM Dataset](https://arxiv.org/abs/2408.17024) – Multiple African Languages
@@ -394,7 +389,6 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Common Voice Dataset](https://commonvoice.mozilla.org/en/datasets) – Various African Languages
   - [AfriSenti-SemEval Dataset](https://github.com/afrisenti-semeval/afrisent-semeval-2023) – 14 African Languages
   - [CHOWNET-V1 datasets](https://github.com/AISaturdaysLagos/CHOWNET) - Chownet: Nigerian Food Image Dataset
-  - [ImageAI Open-source Computer Vision Library](https://github.com/OlafenwaMoses/ImageAI) - ImageAI: AI Computer Vision Library for Python
   - [NaijaSenti](https://github.com/hausanlp/NaijaSenti) - Igbo, Hausa, Yoruba, Pidgin
   - [WAXAL — Google Research Africa Open Speech Dataset](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/introducing-waxal-a-new-open-dataset-for-african-speech-technology/) – 21 Sub-Saharan African languages incl. Hausa, Yoruba, Igbo; 11,000+ hours of speech (~1,250 hrs transcribed for ASR, 20+ hrs studio for TTS); community-led, open on Hugging Face.
   - [African Voices Nigeria](https://arxiv.org/abs/2604.16287) – Hausa, Igbo, Yoruba, Nigerian Pidgin; 2,500 hours of ethically sourced spontaneous speech from 2,800+ speakers with rich demographic metadata.
@@ -404,16 +398,16 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [AfroBench:](https://mcgill-nlp.github.io/AfroBench/index.html) A large-scale benchmark evaluating LLMs on 64 African languages, across 15 NLP tasks, using 22 datasets. It includes classification, QA, translation, generation, etc. Good for evaluating general-purpose and multilingual LLMs on African languages.
   - [IrokoBench:](https://arxiv.org/abs/2406.03368) Introduced in (2025 / early-2025) as a benchmark for low-resource African languages. It includes human-translated evaluation sets for 16–17 typologically diverse African languages; tasks include Natural Language Inference (NLI), mathematical reasoning, and multi-choice knowledge QA
   - [SAHARA Benchmark:](https://aclanthology.org/2025.acl-long.1572.pdf) Released in 2025 under the paper “Where Are We? Evaluating LLM Performance on African Languages.” SAHARA covers a broad and representative collection of African languages and evaluates LLMs on multiple tasks.
-  - [Benchmarks / Datasets via Masakhane ecosystem:](https://lanfrica.com/docs/some-african-nlp-datasets-that-you-can-use-to-build-african-ai) Through Masakhane and its associated resources, there are several standardized datasets / data-resources used for benchmarking — e.g. NER, POS-tagging, news classification, etc., across many African languages including those relevant to Nigeria (Hausa, Igbo, Yoruba, Pidgin.
+  - [Benchmarks / Datasets via Masakhane ecosystem:](https://lanfrica.com/) Through Masakhane and its associated resources, there are several standardized datasets / data-resources used for benchmarking — e.g. NER, POS-tagging, news classification, etc., across many African languages including those relevant to Nigeria (Hausa, Igbo, Yoruba, Pidgin.
 
 * ### **API Libraries & Frameworks**  
-  - [Igbo API](https://igboapi.com/)
+  - [Igbo API](https://igboapi.com/) ([source on GitHub](https://github.com/nkowaokwu/igbo_api))
+  - [ImageAI Open-source Computer Vision Library](https://github.com/OlafenwaMoses/ImageAI) - AI Computer Vision Library for Python
   - [Hugging Face – Nigerian Language Models](https://huggingface.co/models)
   - [Nigerian States API](https://github.com/emekaokoye/NG-States-API/)
   - [Nigeria GeoJSON & Location Data API](https://github.com/temikeezy/nigeria-geojson-data)
   - [Nigeria States & LGAs API](https://github.com/Ordu-Tech/ng-state-lga-api/
   - [All Nigeria API](https://github.com/aligorithm/allnigeria-api)
-  - [African Proverbs API](https://github.com/elvis-ndubuisi/african-proverbs)
   - [Naija Faker](https://github.com/onedebos/naija-faker)
   - [Open Banking Nigeria API](https://github.com/openbankingnigeria/api)
   - [LumiID API](https://lumiid.com/api/docs/)
@@ -500,9 +494,9 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
     - [AfriMTEB and AfriE5 — Text Embedding Models for African Languages](https://arxiv.org/abs/2510.23896)
     - [African Voices Nigeria — 2,500 Hours of Speech Data (Best Paper)](https://arxiv.org/abs/2604.16287)
     - [SAFARI — Stereotype Resources for Sub-Saharan Africa](https://aclanthology.org/2026.eacl-short.27/)
-    - [Language Choice in Nigerian Social Media Hate Speech](https://aclanthology.org/)
-    - [AfriCaption — Image Captioning in African Languages](https://aclanthology.org/)
-    - [Evaluating Yoruba TTS for Accessible Computer-Based Testing](https://aclanthology.org/)
+    - [Language Choice in Nigerian Social Media Hate Speech](https://aclanthology.org/2026.africanlp-main.9/)
+    - [AfriCaption — Image Captioning in African Languages](https://aclanthology.org/2026.africanlp-main.5/)
+    - [Evaluating Yoruba TTS for Accessible Computer-Based Testing](https://aclanthology.org/2026.africanlp-main.23/)
    
 ## Community Platforms
 
