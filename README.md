@@ -398,6 +398,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [NaijaSenti](https://github.com/hausanlp/NaijaSenti) - Igbo, Hausa, Yoruba, Pidgin
   - [WAXAL — Google Research Africa Open Speech Dataset](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/introducing-waxal-a-new-open-dataset-for-african-speech-technology/) – 21 Sub-Saharan African languages incl. Hausa, Yoruba, Igbo; 11,000+ hours of speech (~1,250 hrs transcribed for ASR, 20+ hrs studio for TTS); community-led, open on Hugging Face.
   - [African Voices Nigeria](https://arxiv.org/abs/2604.16287) – Hausa, Igbo, Yoruba, Nigerian Pidgin; 2,500 hours of ethically sourced spontaneous speech from 2,800+ speakers with rich demographic metadata.
+  - [naija-grid](https://github.com/Godzilla-lab/naija-grid) - NERC monthly energy caps and Band A to E service bands for every Nigerian electricity feeder, all 11 DisCos, October 2022 to date, refreshed monthly; tabular, CC BY 4.0
 
 
 * ### **Benchmarks** 
