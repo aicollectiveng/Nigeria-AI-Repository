@@ -85,6 +85,15 @@
 
   <section class="kpis" id="kpis"></section>
 
+  <section class="panel" id="wpPanel">
+    <h2>White paper</h2>
+    <div class="sub" id="wpTitle"></div>
+    <div class="kpis" style="grid-template-columns:repeat(2,1fr);margin:6px 0 4px">
+      <div class="kpi"><div class="v" id="wpDl">–</div><div class="l">Downloads (all time)</div><div class="d">Counted by GitHub Releases</div></div>
+      <div class="kpi"><div class="v" style="font-size:18px;padding:8px 0"><a id="wpClicks" target="_blank" rel="noopener" style="color:var(--accent-text)">See button clicks ↗</a></div><div class="l">Clicks on "Read the White Paper"</div><div class="d">Recorded in GoatCounter as <code>whitepaper-download</code></div></div>
+    </div>
+  </section>
+
   <section class="panel">
     <h2>Website visitors</h2>
     <div class="sub" id="siteSub">Unique visitors per day across all pages of this website</div>
@@ -138,6 +147,11 @@ function splitRow(line){ const out = []; let cur = '', q = false;
     else if(ch === '"') q = true; else if(ch === ',') { out.push(cur); cur = ''; } else cur += ch; }
   out.push(cur); return out; }
 const load = f => fetch(STATS_RAW + f + '?t=' + Math.floor(Date.now()/3e5)).then(r => r.ok ? r.text() : '').then(parseCSV).catch(() => []);
+
+// White paper downloads (live, all time)
+document.getElementById('wpTitle').textContent = `${WHITEPAPER.title} · ${WHITEPAPER.file}`;
+whitepaperDownloads().then(n => { document.getElementById('wpDl').textContent = n === null ? 'Not released yet' : fmt(n); });
+document.getElementById('wpClicks').href = SITE.goatcounter ? `https://${SITE.goatcounter}.goatcounter.com` : '#';
 
 let D = {}, range = "60";
 Promise.all(['site_daily.csv','site_pages.csv','repo_views.csv','repo_clones.csv','repo_referrers.csv'].map(load))

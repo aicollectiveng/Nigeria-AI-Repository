@@ -6,6 +6,23 @@
 // Leave it empty ("") to switch website visitor tracking off.
 // ============================================================
 const SITE = { goatcounter: "aicollectiveng" };
+// White paper: published as a GitHub Release so downloads are counted by GitHub.
+// tag  = the release tag you create on GitHub (Releases → Draft a new release)
+// file = the exact PDF file name you attach to that release
+const WHITEPAPER = {
+  title: "AI for the Visually Impaired",
+  tag:   "whitepaper-v1",
+  file:  "AI-for-the-Visually-Impaired-White-Paper.pdf"
+};
+const REPO = "aicollectiveng/Nigeria-AI-Repository";
+const WHITEPAPER_URL = `https://github.com/${REPO}/releases/download/${WHITEPAPER.tag}/${WHITEPAPER.file}`;
+// Total downloads of the white paper, read live from GitHub (no token needed)
+function whitepaperDownloads(){
+  return fetch(`https://api.github.com/repos/${REPO}/releases/tags/${encodeURIComponent(WHITEPAPER.tag)}`)
+    .then(r => r.ok ? r.json() : null)
+    .then(rel => rel ? (rel.assets || []).filter(a => a.name === WHITEPAPER.file).reduce((n,a) => n + a.download_count, 0) : null)
+    .catch(() => null);
+}
 const STATS_RAW = "https://raw.githubusercontent.com/aicollectiveng/Nigeria-AI-Repository/main/traffic/";
 
 // Website visitor tracking (GoatCounter: free, no cookies, no consent banner needed)
