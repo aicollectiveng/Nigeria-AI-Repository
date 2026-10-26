@@ -31,8 +31,7 @@
     <div class="cta">
       <a class="primary" href="#explore">Explore the repository ✦</a>
       <a class="ghost" href="digest.html">Read the Monthly Digest</a>
-      <a class="paper" id="wpBtn" href="#" target="_blank" rel="noopener"
-         data-goatcounter-click="whitepaper-download" data-goatcounter-title="White paper: AI for the Visually Impaired">Read the White Paper ↓</a>
+      <a class="paper" id="wpBtn" href="whitepaper.html">Read the White Paper</a>
     </div>
     <div class="paper-note" id="wpNote"></div>
     <div class="stats" id="stats"></div>
@@ -62,8 +61,7 @@
 <script>
 // White paper button (link and live download count come from common.js)
 const wpBtn = document.getElementById('wpBtn');
-wpBtn.href = WHITEPAPER_URL;
-wpBtn.title = `${WHITEPAPER.title} (PDF)`;
+wpBtn.title = WHITEPAPER.title;
 whitepaperDownloads().then(n => { document.getElementById('wpNote').textContent =
   `White paper: ${WHITEPAPER.title}` + (n ? ` · ${n.toLocaleString()} downloads` : ''); });
 

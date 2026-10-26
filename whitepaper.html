@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>White Paper · Nigeria AI Repository</title>
+<meta name="description" content="A People–Ecosystem–Technology Framework for Inclusive AI: advancing accessibility and independence for persons with visual impairment in Nigeria.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<style>
+  .reader-bar{position:sticky;top:64px;z-index:15;background:var(--card);border-bottom:1px solid var(--line);box-shadow:0 4px 14px rgba(0,0,0,.06)}
+  .reader-bar .wrap{display:flex;align-items:center;justify-content:space-between;gap:10px;height:58px}
+  .rb-group{display:flex;align-items:center;gap:6px}
+  .rbtn{border:1px solid var(--line);background:var(--bg);color:var(--text);border-radius:999px;min-width:38px;height:38px;padding:0 12px;font:inherit;font-weight:700;cursor:pointer}
+  .rbtn:hover{border-color:var(--blue)}
+  .pageinfo{font-size:14px;font-weight:600;color:var(--muted);white-space:nowrap}
+  .dlbtn{background:var(--navy);color:#fff;text-decoration:none;font-weight:700;font-size:14px;padding:10px 18px;border-radius:999px;white-space:nowrap}
+  [data-theme="dark"] .dlbtn{background:var(--green);color:var(--deep)}
+  .pages{display:flex;flex-direction:column;align-items:center;gap:18px;padding:26px 0 50px}
+  .page{position:relative;background:#fff;box-shadow:0 8px 28px rgba(10,36,63,.16);border-radius:4px;overflow:hidden}
+  .page canvas{display:block;width:100%;height:100%}
+  .page .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#8a93a8;font-size:14px}
+  /* PDF.js text layer: invisible text over the page so it can be selected, searched and read by screen readers */
+  .textLayer{position:absolute;inset:0;overflow:hidden;line-height:1;opacity:1;text-size-adjust:none;forced-color-adjust:none;transform-origin:0 0;z-index:2}
+  .textLayer span,.textLayer br{color:transparent;position:absolute;white-space:pre;cursor:text;transform-origin:0 0}
+  .textLayer ::selection{background:rgba(64,106,188,.35)}
+  .loading{color:var(--muted);padding:40px 0;text-align:center}
+  .access{font-size:13px;color:#c9d3ea;margin-top:14px}
+  .access a{color:#fff;font-weight:700}
+  
+  @media (max-width:640px){.reader-bar{top:64px}.dlbtn{padding:9px 12px;font-size:13px}.rb-zoom{display:none}}
+</style>
+</head>
+<body>
+<nav><div class="wrap">
+  <a class="brand" href="index.html"><b class="mark">✦</b><span>Nigeria AI Repository</span></a>
+  <div class="links">
+    <a href="index.html">Explore</a>
+    <a href="digest.html">Digest</a>
+    <a href="contributors.html">Contributors</a>
+    <a class="gh" href="https://github.com/aicollectiveng/Nigeria-AI-Repository">GitHub</a>
+    <button class="btn" id="themeBtn" aria-label="Toggle dark mode">🌙</button>
+  </div>
+</div></nav>
+
+<header class="hero" style="padding:36px 0 44px">
+  <canvas id="bg" aria-hidden="true"></canvas>
+  <div class="wrap">
+    <div class="eyebrow">White Paper · October 2026</div>
+    <h1 style="font-size:clamp(24px,4.4vw,40px)">A People–Ecosystem–Technology Framework for <span class="hl">Inclusive AI</span></h1>
+    <p>Advancing accessibility and independence for persons with visual impairment in Nigeria.<br>Data Science Nigeria · Nigeria AI Collective</p>
+    <div class="access">Using a screen reader? <a id="plainLink" href="#">Open the PDF in your browser's own viewer</a>.</div>
+  </div>
+</header>
+
+<div class="reader-bar"><div class="wrap">
+  <div class="rb-group">
+    <button class="rbtn" id="prev" aria-label="Previous page">‹</button>
+    <span class="pageinfo" id="pageinfo" aria-live="polite">Loading…</span>
+    <button class="rbtn" id="next" aria-label="Next page">›</button>
+  </div>
+  <div class="rb-group rb-zoom">
+    <button class="rbtn" id="zoomOut" aria-label="Zoom out">−</button>
+    <button class="rbtn" id="zoomFit" aria-label="Fit to width">Fit</button>
+    <button class="rbtn" id="zoomIn" aria-label="Zoom in">+</button>
+  </div>
+  <a class="dlbtn" id="dl" href="#" data-goatcounter-click="whitepaper-download" data-goatcounter-title="White paper download (reader page)">Download PDF ↓</a>
+</div></div>
+
+<main class="wrap">
+  <div class="pages" id="pages"><div class="loading" id="loading">Loading the white paper…</div></div>
+</main>
+
+<footer>
+  <a href="index.html">Explore</a>
+  <a href="digest.html">Digest</a>
+  <a href="stats.html">Analytics</a>
+  <a href="https://bit.ly/AI-Collective-Com-Onboard">Join the community</a>
+  <div style="margin-top:8px">Nigeria Artificial Intelligence Industry Collective · CC0-1.0</div>
+</footer>
+
+<script src="common.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script>
+// The reading copy sits next to this page (same file name as the release asset).
+// The Download button uses the GitHub Release, so every download is counted.
+const READ_URL = WHITEPAPER.file;
+document.getElementById('dl').href = WHITEPAPER_URL;
+document.getElementById('plainLink').href = READ_URL;
+
+const pagesEl = document.getElementById('pages'), info = document.getElementById('pageinfo');
+let pdf, scale = 0, fitScale = 1, slots = [], current = 1;
+
+if(!window.pdfjsLib){
+  document.getElementById('loading').innerHTML = 'The reader could not load. <a href="' + READ_URL + '">Open the PDF directly</a>.';
+} else {
+  pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+  pdfjsLib.getDocument(READ_URL).promise.then(doc => { pdf = doc; build(); })
+    .catch(() => { document.getElementById('loading').innerHTML = 'The reader could not load. <a href="' + READ_URL + '">Open the PDF directly</a>.'; });
+}
+
+// Make one empty slot per page at the right size, then draw pages only when they scroll into view
+async function build(){
+  const first = await pdf.getPage(1), vp1 = first.getViewport({ scale: 1 });
+  fitScale = Math.min(1.6, (pagesEl.clientWidth - 8) / vp1.width);
+  if(!scale) scale = fitScale;
+  pagesEl.replaceChildren(); slots = [];
+  for(let i = 1; i <= pdf.numPages; i++){
+    const div = document.createElement('div'); div.className = 'page'; div.dataset.n = i;
+    div.style.width = (vp1.width * scale) + 'px'; div.style.height = (vp1.height * scale) + 'px';
+    div.setAttribute('role', 'region'); div.setAttribute('aria-label', `Page ${i} of ${pdf.numPages}`);
+    div.innerHTML = '<div class="ph">Page ' + i + '</div>';
+    pagesEl.appendChild(div); slots.push(div);
+  }
+  observe(); updateInfo();
+}
+let io;
+function observe(){
+  if(io) io.disconnect();
+  io = new IntersectionObserver(es => es.forEach(e => {
+    const div = e.target, n = +div.dataset.n;
+    if(e.isIntersecting && div.dataset.done !== String(scale)) render(div, n);
+  }), { rootMargin: '600px 0px' });
+  slots.forEach(s => io.observe(s));
+}
+async function render(div, n){
+  div.dataset.done = String(scale);
+  const page = await pdf.getPage(n), vp = page.getViewport({ scale });
+  div.style.width = vp.width + 'px'; div.style.height = vp.height + 'px';
+  const ratio = Math.min(window.devicePixelRatio || 1, 2);
+  const canvas = document.createElement('canvas');
+  canvas.width = Math.floor(vp.width * ratio); canvas.height = Math.floor(vp.height * ratio);
+  canvas.setAttribute('aria-hidden', 'true');
+  await page.render({ canvasContext: canvas.getContext('2d'), viewport: vp, transform: ratio !== 1 ? [ratio,0,0,ratio,0,0] : null }).promise;
+  const text = document.createElement('div'); text.className = 'textLayer';
+  text.style.setProperty('--scale-factor', scale);
+  div.replaceChildren(canvas, text);
+  try { await pdfjsLib.renderTextLayer({ textContentSource: page.streamTextContent(), container: text, viewport: vp, textDivs: [] }).promise; } catch(e){}
+}
+// current page = the one crossing 40% of the screen height
+let lockUntil = 0;
+addEventListener('scroll', () => { if(!slots.length || Date.now() < lockUntil) return; const y = innerHeight * .4;
+  const i = slots.findIndex(d => d.getBoundingClientRect().bottom > y); if(i >= 0 && i + 1 !== current){ current = i + 1; updateInfo(); } }, { passive: true });
+function updateInfo(){ if(pdf) info.textContent = `Page ${current} of ${pdf.numPages}`; }
+function goTo(n){ n = Math.max(1, Math.min(pdf.numPages, n)); lockUntil = Date.now() + 900; slots[n-1].scrollIntoView({ behavior: 'smooth', block: 'start' }); current = n; updateInfo(); }
+document.getElementById('prev').onclick = () => pdf && goTo(current - 1);
+document.getElementById('next').onclick = () => pdf && goTo(current + 1);
+function rezoom(s){ if(!pdf) return; const keep = current; scale = Math.max(.5, Math.min(3, s)); build().then(() => slots[keep-1].scrollIntoView({ block: 'start' })); }
+document.getElementById('zoomIn').onclick = () => rezoom(scale * 1.2);
+document.getElementById('zoomOut').onclick = () => rezoom(scale / 1.2);
+document.getElementById('zoomFit').onclick = () => rezoom(fitScale);
+document.addEventListener('keydown', e => { if(!pdf || e.target.closest('input,textarea')) return;
+  if(e.key === 'ArrowRight' || e.key === 'PageDown') { e.preventDefault(); goTo(current + 1); }
+  if(e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); goTo(current - 1); } });
+let rt; addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => { if(pdf && Math.abs(scale - fitScale) < .01){ scale = 0; build(); } }, 300); });
+</script>
+</body>
+</html>
