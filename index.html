@@ -62,8 +62,7 @@
 // White paper button (link and live download count come from common.js)
 const wpBtn = document.getElementById('wpBtn');
 wpBtn.title = WHITEPAPER.title;
-whitepaperDownloads().then(n => { document.getElementById('wpNote').textContent =
-  `White paper: ${WHITEPAPER.title}` + (n ? ` · ${n.toLocaleString()} downloads` : ''); });
+document.getElementById('wpNote').textContent = `White paper: ${WHITEPAPER.title}`;
 
 // Typing effect
 const words = ["Nigerian language models.","open African datasets.","AI startups.","published research.","national AI policy.","data centres and compute."];
