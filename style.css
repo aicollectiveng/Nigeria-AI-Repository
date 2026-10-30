@@ -188,5 +188,5 @@ footer a:hover{color:var(--green)}
 .paper-note{margin-top:10px;font-size:13px;color:#c9d3ea;min-height:1em}
 
 /* Hackathon button */
-.cta .hack{border:1.5px solid var(--green);color:var(--green)}
-.cta .hack:hover{background:var(--green);color:var(--deep)}
+.cta .hack{border:1.5px solid rgba(255,255,255,.85);color:#fff}
+.cta .hack:hover{background:var(--green);border-color:var(--green);color:var(--deep)}
