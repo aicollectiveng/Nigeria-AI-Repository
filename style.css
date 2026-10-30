@@ -186,3 +186,7 @@ footer a:hover{color:var(--green)}
 /* White paper button */
 .cta .paper{background:#fff;color:var(--deep)}
 .paper-note{margin-top:10px;font-size:13px;color:#c9d3ea;min-height:1em}
+
+/* Hackathon button */
+.cta .hack{border:1.5px solid var(--green);color:var(--green)}
+.cta .hack:hover{background:var(--green);color:var(--deep)}
