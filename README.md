@@ -411,7 +411,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [Hugging Face – Nigerian Language Models](https://huggingface.co/models)
   - [Nigerian States API](https://github.com/emekaokoye/NG-States-API/)
   - [Nigeria GeoJSON & Location Data API](https://github.com/temikeezy/nigeria-geojson-data)
-  - [Nigeria States & LGAs API](https://github.com/Ordu-Tech/ng-state-lga-api/
+  - [Nigeria States & LGAs API](https://github.com/Ordu-Tech/ng-state-lga-api/)
   - [All Nigeria API](https://github.com/aligorithm/allnigeria-api)
   - [African Proverbs API](https://github.com/elvis-ndubuisi/african-proverbs)
   - [Naija Faker](https://github.com/onedebos/naija-faker)
@@ -419,6 +419,7 @@ Join Our Youtube Community by Subscribing to our Channel Here: [YouTube](https:/
   - [LumiID API](https://lumiid.com/api/docs/)
   - [20,000 past questions API end points for POST-UTME, UTME, WASSCE, NECO questions](https://github.com/Seunope/)
   - [Nigerian States Data API (Zyla API Hub)](https://zylalabs.com/api-marketplace/location%2B%26%2Bmapping/nigerian%2Bstates%2Bdata%2Bapi/)
+  - [Multi-Agent Code Reviewer](https://github.com/paulappz/multi-agent-code-reviewer) - An open-source multi-agent code review framework built by a Nigerian engineer. Security, performance and refactoring agents, orchestrated with LangGraph, review pull requests and merge their findings into one verdict. It runs as a GitHub Action or as an MCP server that coding agents can call to check their own changes.
 
 
 ## Innovation
